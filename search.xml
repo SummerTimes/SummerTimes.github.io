@@ -721,7 +721,9 @@
       <title><![CDATA[分支备忘录]]></title>
       <url>/2018/03/30/%E5%88%86%E6%94%AF%E5%A4%87%E5%BF%98%E5%BD%95/</url>
       <content type="html"><![CDATA[<p>&#x65F6;&#x95F4;&#x98DE;&#x5FEB;&#x6D41;&#x901D;,&#x5E74;&#x7EAA;&#x4E0D;&#x65AD;&#x589E;&#x957F;,&#x4EBA;&#x603B;&#x8981;&#x627E;&#x70B9;&#x4E8B;&#x60C5;&#x505A;&#xFF0C;&#x8BA9;&#x81EA;&#x5DF1;&#x5FD9;&#x8D77;&#x6765;&#xFF0C;&#x5FD9;&#x8D77;&#x6765;&#x624D;&#x77E5;&#x9053;&#x751F;&#x6D3B;&#x4E0D;&#x6613;&#xFF0C;&#x624D;&#x660E;&#x767D;&#x5E73;&#x65F6;&#x7684;&#x5FE7;&#x4F24;&#x90FD;&#x662F;&#x77EB;&#x60C5;&#x3002;<br>&#x201C;&#x65F6;&#x5149;&#x4E0D;&#x5012;&#x5E26;&#xFF0C;&#x5C81;&#x6708;&#x4E0D;&#x91CD;&#x6765;&#x201D;-&#x81F4;&#x81EA;&#x5DF1; &#x200B;&#x200B;&#x200B;&#x200B;</p>
-<h3 id="git-&#x5206;&#x652F;&#x4F7F;&#x7528;"><a href="#git-&#x5206;&#x652F;&#x4F7F;&#x7528;" class="headerlink" title="git &#x5206;&#x652F;&#x4F7F;&#x7528;"></a>git &#x5206;&#x652F;&#x4F7F;&#x7528;</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br><span class="line">41</span><br><span class="line">42</span><br><span class="line">43</span><br><span class="line">44</span><br><span class="line">45</span><br><span class="line">46</span><br><span class="line">47</span><br><span class="line">48</span><br><span class="line">49</span><br><span class="line">50</span><br><span class="line">51</span><br><span class="line">52</span><br><span class="line">53</span><br><span class="line">54</span><br><span class="line">55</span><br><span class="line">56</span><br><span class="line">57</span><br><span class="line">58</span><br><span class="line">59</span><br><span class="line">60</span><br><span class="line">61</span><br><span class="line">62</span><br><span class="line">63</span><br><span class="line">64</span><br><span class="line">65</span><br><span class="line">66</span><br><span class="line">67</span><br><span class="line">68</span><br><span class="line">69</span><br><span class="line">70</span><br><span class="line">71</span><br><span class="line">72</span><br><span class="line">73</span><br><span class="line">74</span><br><span class="line">75</span><br><span class="line">76</span><br><span class="line">77</span><br><span class="line">78</span><br><span class="line">79</span><br><span class="line">80</span><br><span class="line">81</span><br><span class="line">82</span><br><span class="line">83</span><br><span class="line">84</span><br><span class="line">85</span><br><span class="line">86</span><br><span class="line">87</span><br><span class="line">88</span><br><span class="line">89</span><br><span class="line">90</span><br><span class="line">91</span><br><span class="line">92</span><br><span class="line">93</span><br><span class="line">94</span><br><span class="line">95</span><br><span class="line">96</span><br><span class="line">97</span><br><span class="line">98</span><br><span class="line">99</span><br><span class="line">100</span><br><span class="line">101</span><br><span class="line">102</span><br><span class="line">103</span><br><span class="line">104</span><br><span class="line">105</span><br><span class="line">106</span><br><span class="line">107</span><br><span class="line">108</span><br><span class="line">109</span><br><span class="line">110</span><br><span class="line">111</span><br><span class="line">112</span><br><span class="line">113</span><br><span class="line">114</span><br><span class="line">115</span><br><span class="line">116</span><br><span class="line">117</span><br><span class="line">118</span><br><span class="line">119</span><br><span class="line">120</span><br><span class="line">121</span><br><span class="line">122</span><br><span class="line">123</span><br><span class="line">124</span><br><span class="line">125</span><br><span class="line">126</span><br><span class="line">127</span><br><span class="line">128</span><br><span class="line">129</span><br><span class="line">130</span><br><span class="line">131</span><br><span class="line">132</span><br><span class="line">133</span><br><span class="line">134</span><br><span class="line">135</span><br><span class="line">136</span><br><span class="line">137</span><br><span class="line">138</span><br><span class="line">139</span><br><span class="line">140</span><br><span class="line">141</span><br><span class="line">142</span><br><span class="line">143</span><br><span class="line">144</span><br><span class="line">145</span><br><span class="line">146</span><br><span class="line">147</span><br><span class="line">148</span><br><span class="line">149</span><br><span class="line">150</span><br><span class="line">151</span><br><span class="line">152</span><br><span class="line">153</span><br><span class="line">154</span><br><span class="line">155</span><br></pre></td><td class="code"><pre><span class="line">Last login: Thu Mar 29 08:51:51 on console</span><br><span class="line">yangdongdeMacBook-Pr:~ yangdong$ </span><br><span class="line">yangdongdeMacBook-Pr:~ yangdong$ ls</span><br><span class="line">Applications	Documents	Movies		Public</span><br><span class="line">Codes		Downloads	Music		nodejs-hexo</span><br><span class="line">Desktop		Library		Pictures</span><br><span class="line">yangdongdeMacBook-Pr:~ yangdong$ cd Downloads/</span><br><span class="line">yangdongdeMacBook-Pr:Downloads yangdong$ ls</span><br><span class="line">D9D82E9ADFAC84A09E022D581DD361E1.jpg	&#x5927;</span><br><span class="line">code					&#x6587;&#x6863;</span><br><span class="line">ibailian</span><br><span class="line">yangdongdeMacBook-Pr:Downloads yangdong$ cd ibailian/</span><br><span class="line">yangdongdeMacBook-Pr:ibailian yangdong$ ls</span><br><span class="line">dev_1	dev_2</span><br><span class="line">yangdongdeMacBook-Pr:ibailian yangdong$ mkdir git_code</span><br><span class="line">yangdongdeMacBook-Pr:ibailian yangdong$ cd git_code/</span><br><span class="line">yangdongdeMacBook-Pr:git_code yangdong$ git clone git@gitlab.bl.com:ibl-Android/iBailianAndroid.git</span><br><span class="line">Cloning into &apos;iBailianAndroid&apos;...</span><br><span class="line">remote: Counting objects: 98751, done.</span><br><span class="line">remote: Compressing objects: 100% (25091/25091), done.</span><br><span class="line">remote: Total 98751 (delta 52079), reused 98699 (delta 52060)</span><br><span class="line">Receiving objects: 100% (98751/98751), 102.64 MiB | 1.02 MiB/s, done.</span><br><span class="line">Resolving deltas: 100% (52079/52079), done.</span><br><span class="line">Checking connectivity... done.</span><br><span class="line">Checking out files: 100% (6554/6554), done.</span><br><span class="line">yangdongdeMacBook-Pr:git_code yangdong$ </span><br><span class="line">yangdongdeMacBook-Pr:git_code yangdong$ git branch</span><br><span class="line">fatal: Not a git repository (or any of the parent directories): .git</span><br><span class="line">yangdongdeMacBook-Pr:git_code yangdong$ ls</span><br><span class="line">iBailianAndroid</span><br><span class="line">yangdongdeMacBook-Pr:git_code yangdong$ cd ib</span><br><span class="line">-bash: cd: ib: No such file or directory</span><br><span class="line">yangdongdeMacBook-Pr:git_code yangdong$ cd iBailianAndroid/</span><br><span class="line">yangdongdeMacBook-Pr:iBailianAndroid yangdong$ ls</span><br><span class="line">Animation			gradle.properties</span><br><span class="line">BLShare				gradlew</span><br><span class="line">BLVip				gradlew.bat</span><br><span class="line">BLWeb				homepage</span><br><span class="line">Banner				hotrank</span><br><span class="line">CommonUI			ibailian</span><br><span class="line">DataShare			invoicetitle</span><br><span class="line">GoodsCategory			lib_analysis</span><br><span class="line">GoodsDetail			lib_aop</span><br><span class="line">Invoice				lib_image</span><br><span class="line">Order_External			lib_network</span><br><span class="line">Router				lib_patchupdate</span><br><span class="line">WebLib				lib_push</span><br><span class="line">addressselection		lib_recyclerview_ui</span><br><span class="line">android.iml			lib_refreshLayout</span><br><span class="line">appChannel.jar			lib_util</span><br><span class="line">artifactory.gradle		lib_widget</span><br><span class="line">artifactory_version.properties	location</span><br><span class="line">bailian.keystore		login</span><br><span class="line">barcodescanner			order</span><br><span class="line">blsdk				ordercenter</span><br><span class="line">branddetails			plugin_cashier</span><br><span class="line">build.gradle			productlist</span><br><span class="line">buildChanelApk.sh		proguard-rules.txt</span><br><span class="line">cart				python_tools</span><br><span class="line">compluginlib			resourcepagemanager</span><br><span class="line">component-scanner.gradle	riso</span><br><span class="line">constants			routermanager</span><br><span class="line">content.md			rspluginmodule</span><br><span class="line">deploy.py			search</span><br><span class="line">docs				settings.gradle</span><br><span class="line">footprint			tagrecommend</span><br><span class="line">fresh				tingyun.properties</span><br><span class="line">git&#x5E38;&#x7528;&#x547D;&#x4EE4;.md			userinvite</span><br><span class="line">gradle				worthgroup</span><br><span class="line">yangdongdeMacBook-Pr:iBailianAndroid yangdong$ git branch</span><br><span class="line">* master</span><br><span class="line">yangdongdeMacBook-Pr:iBailianAndroid yangdong$ </span><br><span class="line">yangdongdeMacBook-Pr:iBailianAndroid yangdong$ </span><br><span class="line">yangdongdeMacBook-Pr:iBailianAndroid yangdong$ </span><br><span class="line">yangdongdeMacBook-Pr:iBailianAndroid yangdong$ git branch -a</span><br><span class="line">* master</span><br><span class="line">  remotes/origin/HEAD -&gt; origin/master</span><br><span class="line">  remotes/origin/arise_local</span><br><span class="line">  remotes/origin/cloudstore</span><br><span class="line">  remotes/origin/dev</span><br><span class="line">  remotes/origin/dev_arise</span><br><span class="line">  remotes/origin/dev_clean</span><br><span class="line">  remotes/origin/master</span><br><span class="line">  remotes/origin/meng_dev</span><br><span class="line">  remotes/origin/pre</span><br><span class="line">  remotes/origin/ys_recommend</span><br><span class="line">yangdongdeMacBook-Pr:iBailianAndroid yangdong$ </span><br><span class="line">yangdongdeMacBook-Pr:iBailianAndroid yangdong$ git checkout origin dev</span><br><span class="line">error: pathspec &apos;dev&apos; did not match any file(s) known to git.</span><br><span class="line">yangdongdeMacBook-Pr:iBailianAndroid yangdong$ git checkout -b dev origin/dev</span><br><span class="line">Branch dev set up to track remote branch dev from origin.</span><br><span class="line">Switched to a new branch &apos;dev&apos;</span><br><span class="line">yangdongdeMacBook-Pr:iBailianAndroid yangdong$ git branch</span><br><span class="line">* dev</span><br><span class="line">  master</span><br><span class="line">yangdongdeMacBook-Pr:iBailianAndroid yangdong$ </span><br><span class="line">yangdongdeMacBook-Pr:iBailianAndroid yangdong$ </span><br><span class="line">yangdongdeMacBook-Pr:iBailianAndroid yangdong$ git checkout -b pre origin/pre</span><br><span class="line">Branch pre set up to track remote branch pre from origin.</span><br><span class="line">Switched to a new branch &apos;pre&apos;</span><br><span class="line">yangdongdeMacBook-Pr:iBailianAndroid yangdong$ git branch</span><br><span class="line">  dev</span><br><span class="line">  master</span><br><span class="line">* pre</span><br><span class="line">yangdongdeMacBook-Pr:iBailianAndroid yangdong$ </span><br><span class="line">yangdongdeMacBook-Pr:iBailianAndroid yangdong$ git branch</span><br><span class="line">  dev</span><br><span class="line">  master</span><br><span class="line">* pre</span><br><span class="line">yangdongdeMacBook-Pr:iBailianAndroid yangdong$ git checkout dev</span><br><span class="line">Switched to branch &apos;dev&apos;</span><br><span class="line">Your branch is up-to-date with &apos;origin/dev&apos;.</span><br><span class="line">yangdongdeMacBook-Pr:iBailianAndroid yangdong$ git pull origin dev</span><br><span class="line">remote: Counting objects: 4, done.</span><br><span class="line">remote: Compressing objects: 100% (4/4), done.</span><br><span class="line">remote: Total 4 (delta 2), reused 0 (delta 0)</span><br><span class="line">Unpacking objects: 100% (4/4), done.</span><br><span class="line">From gitlab.bl.com:ibl-Android/iBailianAndroid</span><br><span class="line"> * branch            dev        -&gt; FETCH_HEAD</span><br><span class="line">   967fe12..1f5ff9a  dev        -&gt; origin/dev</span><br><span class="line">Updating 967fe12..1f5ff9a</span><br><span class="line">Fast-forward</span><br><span class="line"> artifactory_version.properties | 26 +++++++++++++-------------</span><br><span class="line"> gradle.properties              |  2 +-</span><br><span class="line"> 2 files changed, 14 insertions(+), 14 deletions(-)</span><br><span class="line">yangdongdeMacBook-Pr:iBailianAndroid yangdong$ </span><br><span class="line">yangdongdeMacBook-Pr:iBailianAndroid yangdong$ </span><br><span class="line">yangdongdeMacBook-Pr:iBailianAndroid yangdong$ </span><br><span class="line">yangdongdeMacBook-Pr:iBailianAndroid yangdong$ git checkout pre</span><br><span class="line">Switched to branch &apos;pre&apos;</span><br><span class="line">Your branch is up-to-date with &apos;origin/pre&apos;.</span><br><span class="line">yangdongdeMacBook-Pr:iBailianAndroid yangdong$ git pull origin pre</span><br><span class="line">From gitlab.bl.com:ibl-Android/iBailianAndroid</span><br><span class="line"> * branch            pre        -&gt; FETCH_HEAD</span><br><span class="line">Already up-to-date.</span><br><span class="line">yangdongdeMacBook-Pr:iBailianAndroid yangdong$ </span><br><span class="line">yangdongdeMacBook-Pr:iBailianAndroid yangdong$ </span><br><span class="line">yangdongdeMacBook-Pr:iBailianAndroid yangdong$ git merge --no-ff dev</span><br><span class="line">Merge made by the &apos;recursive&apos; strategy.</span><br><span class="line"> artifactory_version.properties                     | 26 +++++++--------</span><br><span class="line"> gradle.properties                                  |  2 +-</span><br><span class="line"> .../paymentcode/activity/PayMentActivity.java      | 38 ++++++++++++----------</span><br><span class="line"> .../paymentcode/dialog/PayCodeDialog.java          |  5 ++-</span><br><span class="line"> 4 files changed, 39 insertions(+), 32 deletions(-)</span><br><span class="line">yangdongdeMacBook-Pr:iBailianAndroid yangdong$ git push origin pre</span><br><span class="line">Counting objects: 1, done.</span><br><span class="line">Writing objects: 100% (1/1), 224 bytes | 0 bytes/s, done.</span><br><span class="line">Total 1 (delta 0), reused 0 (delta 0)</span><br><span class="line">To gitlab.bl.com:ibl-Android/iBailianAndroid.git</span><br><span class="line">   655636f..440c037  pre -&gt; pre</span><br><span class="line">yangdongdeMacBook-Pr:iBailianAndroid yangdong$ git branch</span><br><span class="line">  dev</span><br><span class="line">  master</span><br><span class="line">* pre</span><br><span class="line">yangdongdeMacBook-Pr:iBailianAndroid yangdong$</span><br></pre></td></tr></table></figure>]]></content>
+<h3 id="git-&#x5206;&#x652F;&#x4F7F;&#x7528;"><a href="#git-&#x5206;&#x652F;&#x4F7F;&#x7528;" class="headerlink" title="git &#x5206;&#x652F;&#x4F7F;&#x7528;"></a>git &#x5206;&#x652F;&#x4F7F;&#x7528;</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br><span class="line">41</span><br><span class="line">42</span><br><span class="line">43</span><br><span class="line">44</span><br><span class="line">45</span><br><span class="line">46</span><br><span class="line">47</span><br><span class="line">48</span><br><span class="line">49</span><br><span class="line">50</span><br><span class="line">51</span><br><span class="line">52</span><br><span class="line">53</span><br><span class="line">54</span><br><span class="line">55</span><br><span class="line">56</span><br><span class="line">57</span><br><span class="line">58</span><br><span class="line">59</span><br><span class="line">60</span><br><span class="line">61</span><br><span class="line">62</span><br><span class="line">63</span><br><span class="line">64</span><br><span class="line">65</span><br><span class="line">66</span><br><span class="line">67</span><br><span class="line">68</span><br><span class="line">69</span><br><span class="line">70</span><br><span class="line">71</span><br><span class="line">72</span><br><span class="line">73</span><br><span class="line">74</span><br><span class="line">75</span><br><span class="line">76</span><br><span class="line">77</span><br><span class="line">78</span><br><span class="line">79</span><br><span class="line">80</span><br><span class="line">81</span><br><span class="line">82</span><br><span class="line">83</span><br><span class="line">84</span><br><span class="line">85</span><br><span class="line">86</span><br><span class="line">87</span><br><span class="line">88</span><br><span class="line">89</span><br><span class="line">90</span><br><span class="line">91</span><br><span class="line">92</span><br><span class="line">93</span><br><span class="line">94</span><br><span class="line">95</span><br><span class="line">96</span><br><span class="line">97</span><br><span class="line">98</span><br><span class="line">99</span><br><span class="line">100</span><br><span class="line">101</span><br><span class="line">102</span><br><span class="line">103</span><br><span class="line">104</span><br><span class="line">105</span><br><span class="line">106</span><br><span class="line">107</span><br><span class="line">108</span><br><span class="line">109</span><br><span class="line">110</span><br><span class="line">111</span><br><span class="line">112</span><br><span class="line">113</span><br><span class="line">114</span><br><span class="line">115</span><br><span class="line">116</span><br><span class="line">117</span><br><span class="line">118</span><br><span class="line">119</span><br><span class="line">120</span><br><span class="line">121</span><br><span class="line">122</span><br><span class="line">123</span><br><span class="line">124</span><br><span class="line">125</span><br><span class="line">126</span><br><span class="line">127</span><br><span class="line">128</span><br><span class="line">129</span><br><span class="line">130</span><br><span class="line">131</span><br><span class="line">132</span><br><span class="line">133</span><br><span class="line">134</span><br><span class="line">135</span><br><span class="line">136</span><br><span class="line">137</span><br><span class="line">138</span><br><span class="line">139</span><br><span class="line">140</span><br><span class="line">141</span><br><span class="line">142</span><br><span class="line">143</span><br><span class="line">144</span><br><span class="line">145</span><br><span class="line">146</span><br><span class="line">147</span><br><span class="line">148</span><br><span class="line">149</span><br><span class="line">150</span><br><span class="line">151</span><br><span class="line">152</span><br><span class="line">153</span><br><span class="line">154</span><br><span class="line">155</span><br></pre></td><td class="code"><pre><span class="line">Last login: Thu Mar 29 08:51:51 on console</span><br><span class="line">yangdongdeMacBook-Pr:~ yangdong$ </span><br><span class="line">yangdongdeMacBook-Pr:~ yangdong$ ls</span><br><span class="line">Applications	Documents	Movies		Public</span><br><span class="line">Codes		Downloads	Music		nodejs-hexo</span><br><span class="line">Desktop		Library		Pictures</span><br><span class="line">yangdongdeMacBook-Pr:~ yangdong$ cd Downloads/</span><br><span class="line">yangdongdeMacBook-Pr:Downloads yangdong$ ls</span><br><span class="line">D9D82E9ADFAC84A09E022D581DD361E1.jpg	&#x5927;</span><br><span class="line">code					&#x6587;&#x6863;</span><br><span class="line">ibailian</span><br><span class="line">yangdongdeMacBook-Pr:Downloads yangdong$ cd ibailian/</span><br><span class="line">yangdongdeMacBook-Pr:ibailian yangdong$ ls</span><br><span class="line">dev_1	dev_2</span><br><span class="line">yangdongdeMacBook-Pr:ibailian yangdong$ mkdir git_code</span><br><span class="line">yangdongdeMacBook-Pr:ibailian yangdong$ cd git_code/</span><br><span class="line">yangdongdeMacBook-Pr:git_code yangdong$ git clone git@gitlab.bl.com:ibl-Android/iBailianAndroid.git</span><br><span class="line">Cloning into &apos;iBailianAndroid&apos;...</span><br><span class="line">remote: Counting objects: 98751, done.</span><br><span class="line">remote: Compressing objects: 100% (25091/25091), done.</span><br><span class="line">remote: Total 98751 (delta 52079), reused 98699 (delta 52060)</span><br><span class="line">Receiving objects: 100% (98751/98751), 102.64 MiB | 1.02 MiB/s, done.</span><br><span class="line">Resolving deltas: 100% (52079/52079), done.</span><br><span class="line">Checking connectivity... done.</span><br><span class="line">Checking out files: 100% (6554/6554), done.</span><br><span class="line">yangdongdeMacBook-Pr:git_code yangdong$ </span><br><span class="line">yangdongdeMacBook-Pr:git_code yangdong$ git branch</span><br><span class="line">fatal: Not a git repository (or any of the parent directories): .git</span><br><span class="line">yangdongdeMacBook-Pr:git_code yangdong$ ls</span><br><span class="line">iBailianAndroid</span><br><span class="line">yangdongdeMacBook-Pr:git_code yangdong$ cd ib</span><br><span class="line">-bash: cd: ib: No such file or directory</span><br><span class="line">yangdongdeMacBook-Pr:git_code yangdong$ cd iBailianAndroid/</span><br><span class="line">yangdongdeMacBook-Pr:iBailianAndroid yangdong$ ls</span><br><span class="line">Animation			gradle.properties</span><br><span class="line">BLShare				gradlew</span><br><span class="line">BLVip				gradlew.bat</span><br><span class="line">BLWeb				homepage</span><br><span class="line">Banner				hotrank</span><br><span class="line">CommonUI			ibailian</span><br><span class="line">DataShare			invoicetitle</span><br><span class="line">GoodsCategory			lib_analysis</span><br><span class="line">GoodsDetail			lib_aop</span><br><span class="line">Invoice				lib_image</span><br><span class="line">Order_External			lib_network</span><br><span class="line">Router				lib_patchupdate</span><br><span class="line">WebLib				lib_push</span><br><span class="line">addressselection		lib_recyclerview_ui</span><br><span class="line">android.iml			lib_refreshLayout</span><br><span class="line">appChannel.jar			lib_util</span><br><span class="line">artifactory.gradle		lib_widget</span><br><span class="line">artifactory_version.properties	location</span><br><span class="line">bailian.keystore		login</span><br><span class="line">barcodescanner			order</span><br><span class="line">blsdk				ordercenter</span><br><span class="line">branddetails			plugin_cashier</span><br><span class="line">build.gradle			productlist</span><br><span class="line">buildChanelApk.sh		proguard-rules.txt</span><br><span class="line">cart				python_tools</span><br><span class="line">compluginlib			resourcepagemanager</span><br><span class="line">component-scanner.gradle	riso</span><br><span class="line">constants			routermanager</span><br><span class="line">content.md			rspluginmodule</span><br><span class="line">deploy.py			search</span><br><span class="line">docs				settings.gradle</span><br><span class="line">footprint			tagrecommend</span><br><span class="line">fresh				tingyun.properties</span><br><span class="line">git&#x5E38;&#x7528;&#x547D;&#x4EE4;.md			userinvite</span><br><span class="line">gradle				worthgroup</span><br><span class="line">yangdongdeMacBook-Pr:iBailianAndroid yangdong$ git branch</span><br><span class="line">* master</span><br><span class="line">yangdongdeMacBook-Pr:iBailianAndroid yangdong$ </span><br><span class="line">yangdongdeMacBook-Pr:iBailianAndroid yangdong$ </span><br><span class="line">yangdongdeMacBook-Pr:iBailianAndroid yangdong$ </span><br><span class="line">yangdongdeMacBook-Pr:iBailianAndroid yangdong$ git branch -a</span><br><span class="line">* master</span><br><span class="line">  remotes/origin/HEAD -&gt; origin/master</span><br><span class="line">  remotes/origin/arise_local</span><br><span class="line">  remotes/origin/cloudstore</span><br><span class="line">  remotes/origin/dev</span><br><span class="line">  remotes/origin/dev_arise</span><br><span class="line">  remotes/origin/dev_clean</span><br><span class="line">  remotes/origin/master</span><br><span class="line">  remotes/origin/meng_dev</span><br><span class="line">  remotes/origin/pre</span><br><span class="line">  remotes/origin/ys_recommend</span><br><span class="line">yangdongdeMacBook-Pr:iBailianAndroid yangdong$ </span><br><span class="line">yangdongdeMacBook-Pr:iBailianAndroid yangdong$ git checkout origin dev</span><br><span class="line">error: pathspec &apos;dev&apos; did not match any file(s) known to git.</span><br><span class="line">yangdongdeMacBook-Pr:iBailianAndroid yangdong$ git checkout -b dev origin/dev</span><br><span class="line">Branch dev set up to track remote branch dev from origin.</span><br><span class="line">Switched to a new branch &apos;dev&apos;</span><br><span class="line">yangdongdeMacBook-Pr:iBailianAndroid yangdong$ git branch</span><br><span class="line">* dev</span><br><span class="line">  master</span><br><span class="line">yangdongdeMacBook-Pr:iBailianAndroid yangdong$ </span><br><span class="line">yangdongdeMacBook-Pr:iBailianAndroid yangdong$ </span><br><span class="line">yangdongdeMacBook-Pr:iBailianAndroid yangdong$ git checkout -b pre origin/pre</span><br><span class="line">Branch pre set up to track remote branch pre from origin.</span><br><span class="line">Switched to a new branch &apos;pre&apos;</span><br><span class="line">yangdongdeMacBook-Pr:iBailianAndroid yangdong$ git branch</span><br><span class="line">  dev</span><br><span class="line">  master</span><br><span class="line">* pre</span><br><span class="line">yangdongdeMacBook-Pr:iBailianAndroid yangdong$ </span><br><span class="line">yangdongdeMacBook-Pr:iBailianAndroid yangdong$ git branch</span><br><span class="line">  dev</span><br><span class="line">  master</span><br><span class="line">* pre</span><br><span class="line">yangdongdeMacBook-Pr:iBailianAndroid yangdong$ git checkout dev</span><br><span class="line">Switched to branch &apos;dev&apos;</span><br><span class="line">Your branch is up-to-date with &apos;origin/dev&apos;.</span><br><span class="line">yangdongdeMacBook-Pr:iBailianAndroid yangdong$ git pull origin dev</span><br><span class="line">remote: Counting objects: 4, done.</span><br><span class="line">remote: Compressing objects: 100% (4/4), done.</span><br><span class="line">remote: Total 4 (delta 2), reused 0 (delta 0)</span><br><span class="line">Unpacking objects: 100% (4/4), done.</span><br><span class="line">From gitlab.bl.com:ibl-Android/iBailianAndroid</span><br><span class="line"> * branch            dev        -&gt; FETCH_HEAD</span><br><span class="line">   967fe12..1f5ff9a  dev        -&gt; origin/dev</span><br><span class="line">Updating 967fe12..1f5ff9a</span><br><span class="line">Fast-forward</span><br><span class="line"> artifactory_version.properties | 26 +++++++++++++-------------</span><br><span class="line"> gradle.properties              |  2 +-</span><br><span class="line"> 2 files changed, 14 insertions(+), 14 deletions(-)</span><br><span class="line">yangdongdeMacBook-Pr:iBailianAndroid yangdong$ </span><br><span class="line">yangdongdeMacBook-Pr:iBailianAndroid yangdong$ </span><br><span class="line">yangdongdeMacBook-Pr:iBailianAndroid yangdong$ </span><br><span class="line">yangdongdeMacBook-Pr:iBailianAndroid yangdong$ git checkout pre</span><br><span class="line">Switched to branch &apos;pre&apos;</span><br><span class="line">Your branch is up-to-date with &apos;origin/pre&apos;.</span><br><span class="line">yangdongdeMacBook-Pr:iBailianAndroid yangdong$ git pull origin pre</span><br><span class="line">From gitlab.bl.com:ibl-Android/iBailianAndroid</span><br><span class="line"> * branch            pre        -&gt; FETCH_HEAD</span><br><span class="line">Already up-to-date.</span><br><span class="line">yangdongdeMacBook-Pr:iBailianAndroid yangdong$ </span><br><span class="line">yangdongdeMacBook-Pr:iBailianAndroid yangdong$ </span><br><span class="line">yangdongdeMacBook-Pr:iBailianAndroid yangdong$ git merge --no-ff dev</span><br><span class="line">Merge made by the &apos;recursive&apos; strategy.</span><br><span class="line"> artifactory_version.properties                     | 26 +++++++--------</span><br><span class="line"> gradle.properties                                  |  2 +-</span><br><span class="line"> .../paymentcode/activity/PayMentActivity.java      | 38 ++++++++++++----------</span><br><span class="line"> .../paymentcode/dialog/PayCodeDialog.java          |  5 ++-</span><br><span class="line"> 4 files changed, 39 insertions(+), 32 deletions(-)</span><br><span class="line">yangdongdeMacBook-Pr:iBailianAndroid yangdong$ git push origin pre</span><br><span class="line">Counting objects: 1, done.</span><br><span class="line">Writing objects: 100% (1/1), 224 bytes | 0 bytes/s, done.</span><br><span class="line">Total 1 (delta 0), reused 0 (delta 0)</span><br><span class="line">To gitlab.bl.com:ibl-Android/iBailianAndroid.git</span><br><span class="line">   655636f..440c037  pre -&gt; pre</span><br><span class="line">yangdongdeMacBook-Pr:iBailianAndroid yangdong$ git branch</span><br><span class="line">  dev</span><br><span class="line">  master</span><br><span class="line">* pre</span><br><span class="line">yangdongdeMacBook-Pr:iBailianAndroid yangdong$</span><br></pre></td></tr></table></figure>
+<p><strong> &#x5237;&#x65B0;&#x5206;&#x652F;</strong><br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git fetch -p origin</span><br></pre></td></tr></table></figure></p>
+]]></content>
       
         <categories>
             
@@ -849,161 +851,6 @@
         <tags>
             
             <tag> 总结 </tag>
-            
-        </tags>
-        
-    </entry>
-    
-    <entry>
-      <title><![CDATA[Android学习计划-(第五周）]]></title>
-      <url>/2017/11/23/Android%E5%AD%A6%E4%B9%A0%E8%AE%A1%E5%88%92-%E7%AC%AC%E4%BA%94%E5%91%A8/</url>
-      <content type="html"><![CDATA[<p>&#x65F6;&#x95F4;&#x98DE;&#x5FEB;&#x6D41;&#x901D;,&#x5E74;&#x7EAA;&#x4E0D;&#x65AD;&#x589E;&#x957F;,&#x4EBA;&#x603B;&#x8981;&#x627E;&#x70B9;&#x4E8B;&#x60C5;&#x505A;&#xFF0C;&#x8BA9;&#x81EA;&#x5DF1;&#x5FD9;&#x8D77;&#x6765;&#xFF0C;&#x5FD9;&#x8D77;&#x6765;&#x624D;&#x77E5;&#x9053;&#x751F;&#x6D3B;&#x4E0D;&#x6613;&#xFF0C;&#x624D;&#x660E;&#x767D;&#x5E73;&#x65F6;&#x7684;&#x5FE7;&#x4F24;&#x90FD;&#x662F;&#x77EB;&#x60C5;&#x3002;<br>&#x201C;&#x65F6;&#x5149;&#x4E0D;&#x5012;&#x5E26;&#xFF0C;&#x5C81;&#x6708;&#x4E0D;&#x91CD;&#x6765;&#x201D;-&#x81F4;&#x81EA;&#x5DF1; &#x200B;&#x200B;&#x200B;&#x200B;</p>
-<h3 id="&#x7B2C;&#x4E94;&#x5468;&#x4F5C;&#x4E1A;"><a href="#&#x7B2C;&#x4E94;&#x5468;&#x4F5C;&#x4E1A;" class="headerlink" title="&#x7B2C;&#x4E94;&#x5468;&#x4F5C;&#x4E1A;"></a><strong>&#x7B2C;&#x4E94;&#x5468;&#x4F5C;&#x4E1A;</strong></h3>]]></content>
-      
-        <categories>
-            
-            <category> Android </category>
-            
-        </categories>
-        
-        
-        <tags>
-            
-            <tag> Android </tag>
-            
-        </tags>
-        
-    </entry>
-    
-    <entry>
-      <title><![CDATA[Android学习计划-(第六周）]]></title>
-      <url>/2017/11/23/Android%E5%AD%A6%E4%B9%A0%E8%AE%A1%E5%88%92-%E7%AC%AC%E5%85%AD%E5%91%A8/</url>
-      <content type="html"><![CDATA[<p>&#x65F6;&#x95F4;&#x98DE;&#x5FEB;&#x6D41;&#x901D;,&#x5E74;&#x7EAA;&#x4E0D;&#x65AD;&#x589E;&#x957F;,&#x4EBA;&#x603B;&#x8981;&#x627E;&#x70B9;&#x4E8B;&#x60C5;&#x505A;&#xFF0C;&#x8BA9;&#x81EA;&#x5DF1;&#x5FD9;&#x8D77;&#x6765;&#xFF0C;&#x5FD9;&#x8D77;&#x6765;&#x624D;&#x77E5;&#x9053;&#x751F;&#x6D3B;&#x4E0D;&#x6613;&#xFF0C;&#x624D;&#x660E;&#x767D;&#x5E73;&#x65F6;&#x7684;&#x5FE7;&#x4F24;&#x90FD;&#x662F;&#x77EB;&#x60C5;&#x3002;<br>&#x201C;&#x65F6;&#x5149;&#x4E0D;&#x5012;&#x5E26;&#xFF0C;&#x5C81;&#x6708;&#x4E0D;&#x91CD;&#x6765;&#x201D;-&#x81F4;&#x81EA;&#x5DF1; &#x200B;&#x200B;&#x200B;&#x200B;</p>
-<h3 id="&#x7B2C;&#x516D;&#x5468;&#x4F5C;&#x4E1A;"><a href="#&#x7B2C;&#x516D;&#x5468;&#x4F5C;&#x4E1A;" class="headerlink" title="&#x7B2C;&#x516D;&#x5468;&#x4F5C;&#x4E1A;"></a><strong>&#x7B2C;&#x516D;&#x5468;&#x4F5C;&#x4E1A;</strong></h3>]]></content>
-      
-        <categories>
-            
-            <category> Android </category>
-            
-        </categories>
-        
-        
-        <tags>
-            
-            <tag> Android </tag>
-            
-        </tags>
-        
-    </entry>
-    
-    <entry>
-      <title><![CDATA[Android学习计划-(第八周）]]></title>
-      <url>/2017/11/23/Android%E5%AD%A6%E4%B9%A0%E8%AE%A1%E5%88%92-%E7%AC%AC%E5%85%AB%E5%91%A8/</url>
-      <content type="html"><![CDATA[<p>&#x65F6;&#x95F4;&#x98DE;&#x5FEB;&#x6D41;&#x901D;,&#x5E74;&#x7EAA;&#x4E0D;&#x65AD;&#x589E;&#x957F;,&#x4EBA;&#x603B;&#x8981;&#x627E;&#x70B9;&#x4E8B;&#x60C5;&#x505A;&#xFF0C;&#x8BA9;&#x81EA;&#x5DF1;&#x5FD9;&#x8D77;&#x6765;&#xFF0C;&#x5FD9;&#x8D77;&#x6765;&#x624D;&#x77E5;&#x9053;&#x751F;&#x6D3B;&#x4E0D;&#x6613;&#xFF0C;&#x624D;&#x660E;&#x767D;&#x5E73;&#x65F6;&#x7684;&#x5FE7;&#x4F24;&#x90FD;&#x662F;&#x77EB;&#x60C5;&#x3002;<br>&#x201C;&#x65F6;&#x5149;&#x4E0D;&#x5012;&#x5E26;&#xFF0C;&#x5C81;&#x6708;&#x4E0D;&#x91CD;&#x6765;&#x201D;-&#x81F4;&#x81EA;&#x5DF1; &#x200B;&#x200B;&#x200B;&#x200B;</p>
-<h3 id="&#x7B2C;&#x516B;&#x5468;&#x4F5C;&#x4E1A;"><a href="#&#x7B2C;&#x516B;&#x5468;&#x4F5C;&#x4E1A;" class="headerlink" title="&#x7B2C;&#x516B;&#x5468;&#x4F5C;&#x4E1A;"></a><strong>&#x7B2C;&#x516B;&#x5468;&#x4F5C;&#x4E1A;</strong></h3>]]></content>
-      
-        <categories>
-            
-            <category> Android </category>
-            
-        </categories>
-        
-        
-        <tags>
-            
-            <tag> Android </tag>
-            
-        </tags>
-        
-    </entry>
-    
-    <entry>
-      <title><![CDATA[Android学习计划-(第七周）]]></title>
-      <url>/2017/11/23/Android%E5%AD%A6%E4%B9%A0%E8%AE%A1%E5%88%92-%E7%AC%AC%E4%B8%83%E5%91%A8/</url>
-      <content type="html"><![CDATA[<p>&#x65F6;&#x95F4;&#x98DE;&#x5FEB;&#x6D41;&#x901D;,&#x5E74;&#x7EAA;&#x4E0D;&#x65AD;&#x589E;&#x957F;,&#x4EBA;&#x603B;&#x8981;&#x627E;&#x70B9;&#x4E8B;&#x60C5;&#x505A;&#xFF0C;&#x8BA9;&#x81EA;&#x5DF1;&#x5FD9;&#x8D77;&#x6765;&#xFF0C;&#x5FD9;&#x8D77;&#x6765;&#x624D;&#x77E5;&#x9053;&#x751F;&#x6D3B;&#x4E0D;&#x6613;&#xFF0C;&#x624D;&#x660E;&#x767D;&#x5E73;&#x65F6;&#x7684;&#x5FE7;&#x4F24;&#x90FD;&#x662F;&#x77EB;&#x60C5;&#x3002;<br>&#x201C;&#x65F6;&#x5149;&#x4E0D;&#x5012;&#x5E26;&#xFF0C;&#x5C81;&#x6708;&#x4E0D;&#x91CD;&#x6765;&#x201D;-&#x81F4;&#x81EA;&#x5DF1; &#x200B;&#x200B;&#x200B;&#x200B;</p>
-<h3 id="&#x7B2C;&#x4E03;&#x5468;&#x4F5C;&#x4E1A;"><a href="#&#x7B2C;&#x4E03;&#x5468;&#x4F5C;&#x4E1A;" class="headerlink" title="&#x7B2C;&#x4E03;&#x5468;&#x4F5C;&#x4E1A;"></a><strong>&#x7B2C;&#x4E03;&#x5468;&#x4F5C;&#x4E1A;</strong></h3>]]></content>
-      
-        <categories>
-            
-            <category> Android </category>
-            
-        </categories>
-        
-        
-        <tags>
-            
-            <tag> Android </tag>
-            
-        </tags>
-        
-    </entry>
-    
-    <entry>
-      <title><![CDATA[Android学习计划-(第四周）]]></title>
-      <url>/2017/11/23/Android%E5%AD%A6%E4%B9%A0%E8%AE%A1%E5%88%92-%E7%AC%AC%E5%9B%9B%E5%91%A8/</url>
-      <content type="html"><![CDATA[<p>&#x65F6;&#x95F4;&#x98DE;&#x5FEB;&#x6D41;&#x901D;,&#x5E74;&#x7EAA;&#x4E0D;&#x65AD;&#x589E;&#x957F;,&#x4EBA;&#x603B;&#x8981;&#x627E;&#x70B9;&#x4E8B;&#x60C5;&#x505A;&#xFF0C;&#x8BA9;&#x81EA;&#x5DF1;&#x5FD9;&#x8D77;&#x6765;&#xFF0C;&#x5FD9;&#x8D77;&#x6765;&#x624D;&#x77E5;&#x9053;&#x751F;&#x6D3B;&#x4E0D;&#x6613;&#xFF0C;&#x624D;&#x660E;&#x767D;&#x5E73;&#x65F6;&#x7684;&#x5FE7;&#x4F24;&#x90FD;&#x662F;&#x77EB;&#x60C5;&#x3002;<br>&#x201C;&#x65F6;&#x5149;&#x4E0D;&#x5012;&#x5E26;&#xFF0C;&#x5C81;&#x6708;&#x4E0D;&#x91CD;&#x6765;&#x201D;-&#x81F4;&#x81EA;&#x5DF1; &#x200B;&#x200B;&#x200B;&#x200B;</p>
-<h3 id="&#x7B2C;&#x56DB;&#x5468;&#x4F5C;&#x4E1A;"><a href="#&#x7B2C;&#x56DB;&#x5468;&#x4F5C;&#x4E1A;" class="headerlink" title="&#x7B2C;&#x56DB;&#x5468;&#x4F5C;&#x4E1A;"></a><strong>&#x7B2C;&#x56DB;&#x5468;&#x4F5C;&#x4E1A;</strong></h3>]]></content>
-      
-        <categories>
-            
-            <category> Android </category>
-            
-        </categories>
-        
-        
-        <tags>
-            
-            <tag> Android </tag>
-            
-        </tags>
-        
-    </entry>
-    
-    <entry>
-      <title><![CDATA[Android学习计划-(第三周）]]></title>
-      <url>/2017/11/23/Android%E5%AD%A6%E4%B9%A0%E8%AE%A1%E5%88%92-%E7%AC%AC%E4%B8%89%E5%91%A8/</url>
-      <content type="html"><![CDATA[<p>&#x65F6;&#x95F4;&#x98DE;&#x5FEB;&#x6D41;&#x901D;,&#x5E74;&#x7EAA;&#x4E0D;&#x65AD;&#x589E;&#x957F;,&#x4EBA;&#x603B;&#x8981;&#x627E;&#x70B9;&#x4E8B;&#x60C5;&#x505A;&#xFF0C;&#x8BA9;&#x81EA;&#x5DF1;&#x5FD9;&#x8D77;&#x6765;&#xFF0C;&#x5FD9;&#x8D77;&#x6765;&#x624D;&#x77E5;&#x9053;&#x751F;&#x6D3B;&#x4E0D;&#x6613;&#xFF0C;&#x624D;&#x660E;&#x767D;&#x5E73;&#x65F6;&#x7684;&#x5FE7;&#x4F24;&#x90FD;&#x662F;&#x77EB;&#x60C5;&#x3002;<br>&#x201C;&#x65F6;&#x5149;&#x4E0D;&#x5012;&#x5E26;&#xFF0C;&#x5C81;&#x6708;&#x4E0D;&#x91CD;&#x6765;&#x201D;-&#x81F4;&#x81EA;&#x5DF1; &#x200B;&#x200B;&#x200B;&#x200B;</p>
-<h3 id="&#x7B2C;&#x4E09;&#x5468;&#x4F5C;&#x4E1A;"><a href="#&#x7B2C;&#x4E09;&#x5468;&#x4F5C;&#x4E1A;" class="headerlink" title="&#x7B2C;&#x4E09;&#x5468;&#x4F5C;&#x4E1A;"></a><strong>&#x7B2C;&#x4E09;&#x5468;&#x4F5C;&#x4E1A;</strong></h3>]]></content>
-      
-        <categories>
-            
-            <category> Android </category>
-            
-        </categories>
-        
-        
-        <tags>
-            
-            <tag> Android </tag>
-            
-        </tags>
-        
-    </entry>
-    
-    <entry>
-      <title><![CDATA[Android学习计划-(第二周）]]></title>
-      <url>/2017/11/23/Android%E5%AD%A6%E4%B9%A0%E8%AE%A1%E5%88%92-%E7%AC%AC%E4%BA%8C%E5%91%A8/</url>
-      <content type="html"><![CDATA[<p>&#x65F6;&#x95F4;&#x98DE;&#x5FEB;&#x6D41;&#x901D;,&#x5E74;&#x7EAA;&#x4E0D;&#x65AD;&#x589E;&#x957F;,&#x4EBA;&#x603B;&#x8981;&#x627E;&#x70B9;&#x4E8B;&#x60C5;&#x505A;&#xFF0C;&#x8BA9;&#x81EA;&#x5DF1;&#x5FD9;&#x8D77;&#x6765;&#xFF0C;&#x5FD9;&#x8D77;&#x6765;&#x624D;&#x77E5;&#x9053;&#x751F;&#x6D3B;&#x4E0D;&#x6613;&#xFF0C;&#x624D;&#x660E;&#x767D;&#x5E73;&#x65F6;&#x7684;&#x5FE7;&#x4F24;&#x90FD;&#x662F;&#x77EB;&#x60C5;&#x3002;<br>&#x201C;&#x65F6;&#x5149;&#x4E0D;&#x5012;&#x5E26;&#xFF0C;&#x5C81;&#x6708;&#x4E0D;&#x91CD;&#x6765;&#x201D;-&#x81F4;&#x81EA;&#x5DF1; &#x200B;&#x200B;&#x200B;&#x200B;</p>
-<h3 id="&#x7B2C;&#x4E8C;&#x5468;&#x4F5C;&#x4E1A;"><a href="#&#x7B2C;&#x4E8C;&#x5468;&#x4F5C;&#x4E1A;" class="headerlink" title="&#x7B2C;&#x4E8C;&#x5468;&#x4F5C;&#x4E1A;"></a><strong>&#x7B2C;&#x4E8C;&#x5468;&#x4F5C;&#x4E1A;</strong></h3><p><strong>&#x8BDD;&#x9898;&#xFF1A;&#x6E05;&#x6670;&#x5730;&#x7406;&#x89E3;Service</strong></p>
-<ul>
-<li>Service&#x7684;start&#x548C;bind&#x72B6;&#x6001;&#x6709;&#x4EC0;&#x4E48;&#x533A;&#x522B;&#xFF1F;</li>
-<li>&#x540C;&#x4E00;&#x4E2A;Service&#xFF0C;&#x5148;startService&#xFF0C;&#x7136;&#x540E;&#x518D;bindService&#xFF0C;&#x5982;&#x4F55;&#x628A;&#x5B83;&#x505C;&#x6B62;&#x6389;&#xFF1F;</li>
-<li>&#x4F60;&#x6709;&#x6CE8;&#x610F;&#x5230;Service&#x7684;onStartCommand&#x65B9;&#x6CD5;&#x7684;&#x8FD4;&#x56DE;&#x503C;&#x5417;&#xFF1F;&#x4E0D;&#x540C;&#x8FD4;&#x56DE;&#x503C;&#x6709;&#x4EC0;&#x4E48;&#x533A;&#x522B;&#xFF1F;</li>
-<li>Service&#x7684;&#x751F;&#x547D;&#x5468;&#x671F;&#x65B9;&#x6CD5;onCreate&#x3001;onStart&#x3001;onBind&#x7B49;&#x8FD0;&#x884C;&#x5728;&#x54EA;&#x4E2A;&#x7EBF;&#x7A0B;&#xFF1F;</li>
-</ul>
-<p><strong>&#x5982;&#x4F55;&#x5B66;&#x4E60;&#xFF1F;</strong>&#x8BF7;&#x4ECE;&#x7F51;&#x4E0A;&#x67E5;&#x627E;&#x76F8;&#x5E72;&#x4E3B;&#x9898;&#x7684;&#x5185;&#x5BB9;&#xFF0C;&#x6216;&#x8005;&#x53C2;&#x8003;Android&#x5F00;&#x53D1;&#x827A;&#x672F;&#x63A2;&#x7D22;&#xFF0C;&#x8FD8;&#x53EF;&#x4EE5;&#x9605;&#x8BFB;Android&#x5B98;&#x65B9;&#x6587;&#x6863;&#x4E2D;&#x6709;&#x5173;Service&#x7684;&#x7AE0;&#x8282;&#x3002;</p>
-]]></content>
-      
-        <categories>
-            
-            <category> Android </category>
-            
-        </categories>
-        
-        
-        <tags>
-            
-            <tag> Android </tag>
             
         </tags>
         
@@ -1154,6 +1001,65 @@
 </li>
 </ul>
 <p><strong><em>&#x6CE8;</em></strong>&#xFF1A;<a href="http://blog.csdn.net/janice0529/article/details/45322871" target="_blank" rel="external">&#x6587;&#x7AE0;&#x8F6C;&#x8F7D;&#x5C0F;&#x5415;-ICE</a><br><a href="http://www.developerphil.com/android-studio-tips-of-the-day-roundup-1/" target="_blank" rel="external">Android Studio Tips</a></p>
+]]></content>
+      
+        <categories>
+            
+            <category> Android </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> Android </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[安装配置Adb环境]]></title>
+      <url>/2015/04/12/AndroidStudio%E8%BF%9E%E4%B8%8D%E4%B8%8A%E6%89%8B%E6%9C%BA/</url>
+      <content type="html"><![CDATA[<blockquote>
+<p>&#x914D;&#x7F6E;&#x73AF;&#x5883;</p>
+</blockquote>
+<p>&#x5728;&#x5B89;&#x88C5;&#x5B8C;&#x6210;&#x4E4B;&#x540E;&#xFF0C;&#x5C06;android&#x7684;adb&#x5DE5;&#x5177;&#x6240;&#x5728;&#x76EE;&#x5F55;&#x52A0;&#x5165;&#x73AF;&#x5883;&#x53D8;&#x91CF;&#x91CC;&#x9762;&#x53BB;<br>&#x5728;&#x7EC8;&#x7AEF;&#x4E2D;&#x8F93;&#x5165; sudo vim ~/.bash_profile ,&#x6253;&#x5F00; .bash_profile&#x6587;&#x4EF6;&#x3002;&#x6309; i &#x8FDB;&#x5165;&#x8F93;&#x5165;&#x6A21;&#x5F0F;&#xFF0C;&#x5728;&#x6587;&#x4EF6;&#x5185;&#x5BB9;&#x7684;&#x672B;&#x5C3E;&#x52A0;&#x5165;&#x4EE5;&#x4E0B;&#x5185;&#x5BB9;&#xFF1A;<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">#Setting PATH for Android ADB Tools</span><br><span class="line">export PATH=${PATH}:/Users/xxx/Library/Android/sdk/platform-tools</span><br><span class="line">export PATH=${PATH}:/Users/xxx/Library/Android/sdk/tools</span><br></pre></td></tr></table></figure></p>
+<p>&#x8FD9;&#x91CC;&#x9762;&#x7684;xxx&#x6839;&#x636E;&#x81EA;&#x5DF1;&#x5B9E;&#x9645;&#x7684;&#x7528;&#x6237;&#x540D;&#x79F0;&#x8FDB;&#x884C;&#x4FEE;&#x6539;</p>
+<p>&#x7136;&#x540E;&#x70B9;&#x51FB; esc &#xFF0C;&#x8F93;&#x5165; :wq  &#x56DE;&#x8F66;&#xFF08;&#x4FDD;&#x5B58;&#x5E76;&#x9000;&#x51FA;&#x6587;&#x672C;&#xFF09;&#x3002;</p>
+<p>&#x6DFB;&#x52A0;&#x5B8C;&#x6210;&#x540E;&#x8F93;&#x5165;&#xFF1A; source ~/.bash_profile  &#x5E94;&#x7528;&#x8BE5;&#x53D8;&#x66F4;&#x3002;</p>
+<blockquote>
+<p>&#x8F93;&#x5165;&#xFF1A; adb version</p>
+</blockquote>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">yangdongdeMacBook-Pr:~ xxx$ adb devices</span><br><span class="line">List of devices attached</span><br><span class="line">APU0216125001297  device</span><br></pre></td></tr></table></figure>
+<blockquote>
+<p>&#x8FDE;&#x4E0D;&#x4E0A;&#x624B;&#x673A;&#x65F6;&#x5148;&#x67E5;&#x770B;&#x7AEF;&#x53E3;&#x662F;&#x5426;&#x80FD;&#x88AB;&#x7ED1;&#x5B9A;&#xFF0C;&#x4F7F;&#x7528;cmd&#x547D;&#x4EE4;</p>
+</blockquote>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">adb nodaemon server</span><br></pre></td></tr></table></figure>
+<blockquote>
+<p>&#x63D0;&#x793A;&#xFF1A;</p>
+</blockquote>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">cannot bind &apos;tcp:5037&apos;</span><br></pre></td></tr></table></figure>
+<blockquote>
+<p>&#x7AEF;&#x53E3;&#x7ED1;&#x5B9A;&#x5931;&#x8D25;&#xFF0C;&#x5219;&#x7EE7;&#x7EED;&#x67E5;&#x770B;&#x5230;&#x5E95;&#x662F;&#x54EA;&#x4E2A;&#x7AEF;&#x53E3;&#x7ED9;&#x5360;&#x7528;&#x4E86;</p>
+</blockquote>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&#x8FD0;&#x884C;&#x547D;&#x4EE4;&#xFF1A;netstat -ano | findstr &quot;5037&quot;</span><br></pre></td></tr></table></figure>
+<blockquote>
+<p>&#x6848;&#x5217;,&#x7AEF;&#x53E3;&#x5360;&#x7528;</p>
+</blockquote>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br></pre></td><td class="code"><pre><span class="line">C:\Users\YD30&gt;adb nodaemon server</span><br><span class="line">error: could not install *smartsocket* listener: cannot bind to 127.0.0.1:5037: &#x901A;&#x5E38;&#x6BCF;&#x4E2A;&#x5957;&#x63A5;&#x5B57;&#x5730;&#x5740;(&#x534F;&#x8BAE;/&#x7F51;&#x7EDC;&#x5730;&#x5740;/&#x7AEF;&#x53E3;)&#x53EA;&#x5141;&#x8BB8;&#x4F7F;&#x7528;&#x4E00;&#x6B21;&#x3002; (10048)</span><br><span class="line"></span><br><span class="line">This application has requested the Runtime to terminate it in an unusual way.</span><br><span class="line">Please contact the application&apos;s support team for more information.</span><br><span class="line"></span><br><span class="line">C:\Users\YD30&gt;netstat -ano | findstr &quot;5037&quot;</span><br><span class="line">  TCP    127.0.0.1:5037         0.0.0.0:0              LISTENING       5892</span><br><span class="line">  TCP    127.0.0.1:5037         127.0.0.1:51641        ESTABLISHED     5892</span><br><span class="line">  TCP    127.0.0.1:50925        127.0.0.1:5037         TIME_WAIT       0</span><br><span class="line">  TCP    127.0.0.1:51634        127.0.0.1:5037         TIME_WAIT       0</span><br><span class="line">  TCP    127.0.0.1:51635        127.0.0.1:5037         TIME_WAIT       0</span><br><span class="line">  TCP    127.0.0.1:51636        127.0.0.1:5037         TIME_WAIT       0</span><br><span class="line">  TCP    127.0.0.1:51637        127.0.0.1:5037         TIME_WAIT       0</span><br><span class="line">  TCP    127.0.0.1:51641        127.0.0.1:5037         ESTABLISHED     5968</span><br><span class="line">  TCP    127.0.0.1:51790        127.0.0.1:5037         TIME_WAIT       0</span><br><span class="line">  TCP    127.0.0.1:51801        127.0.0.1:5037         TIME_WAIT       0</span><br><span class="line">  TCP    127.0.0.1:51802        127.0.0.1:5037         TIME_WAIT       0</span><br><span class="line">  TCP    127.0.0.1:51803        127.0.0.1:5037         TIME_WAIT       0</span><br></pre></td></tr></table></figure>
+<blockquote>
+<p>&#x8BF4;&#x660E;&#x5F53;&#x524D;&#x7AEF;&#x53E3;&#x88AB;pid&#x4E3A;8744&#x7684;&#x8FDB;&#x7A0B;&#x5360;&#x7528;</p>
+<ul>
+<li>&#x8FD0;&#x884C;tasklist &#x67E5;&#x770B;&#x5217;&#x8868;pid&#x4E3A;8744&#x7684;&#x8FDB;&#x7A0B;</li>
+<li>&#x76F4;&#x63A5;&#x8FD0;&#x884C;taskkill /pid 8744  </li>
+<li>taskkill /im xxxx.exe</li>
+</ul>
+</blockquote>
+<p> <strong><em>&#x67D0;&#x4E9B;&#x6D41;&#x6C13;&#x8F6F;&#x4EF6;&#x8FDB;&#x7A0B;&#x53EF;&#x80FD;&#x5173;&#x4E0D;&#x6389;&#xFF0C;&#x53EF;&#x4EE5;&#x76F4;&#x63A5;&#x5378;&#x8F7D;</em></strong></p>
+<blockquote>
+<p>adb kill-server &#x7136;&#x540E;&#x8F93;&#x5165;  adb start-server</p>
+</blockquote>
 ]]></content>
       
         <categories>
@@ -1583,56 +1489,6 @@ uter.Inner.function();
         <tags>
             
             <tag> java </tag>
-            
-        </tags>
-        
-    </entry>
-    
-    <entry>
-      <title><![CDATA[AndroidStudio连不上手机]]></title>
-      <url>/2013/08/15/AndroidStudio%E8%BF%9E%E4%B8%8D%E4%B8%8A%E6%89%8B%E6%9C%BA/</url>
-      <content type="html"><![CDATA[<p>android studio&#x8FDE;&#x63A5;&#x4E0D;&#x4E0A;&#x624B;&#x673A;&#x7684;&#x89E3;&#x51B3;&#x529E;&#x6CD5;&#xFF0C;android stuido &#x8FDE;&#x63A5;&#x771F;&#x673A;&#x80FD;&#x8FD0;&#x884C;&#x4F46;&#x662F;&#x4E0D;&#x80FD;&#x8C03;&#x8BD5;&#xFF0C;&#x901A;&#x5E38;&#x8DDF;&#x67D0;&#x4E9B;&#x624B;&#x673A;&#x8F6F;&#x4EF6;&#x6709;&#x5173;.</p>
-<hr>
-<blockquote>
-<p>&#x8FDE;&#x4E0D;&#x4E0A;&#x624B;&#x673A;&#x65F6;&#x5148;&#x67E5;&#x770B;&#x7AEF;&#x53E3;&#x662F;&#x5426;&#x80FD;&#x88AB;&#x7ED1;&#x5B9A;&#xFF0C;&#x4F7F;&#x7528;cmd&#x547D;&#x4EE4;</p>
-</blockquote>
-<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">adb nodaemon server</span><br></pre></td></tr></table></figure>
-<blockquote>
-<p>&#x63D0;&#x793A;&#xFF1A;</p>
-</blockquote>
-<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">cannot bind &apos;tcp:5037&apos;</span><br></pre></td></tr></table></figure>
-<blockquote>
-<p>&#x7AEF;&#x53E3;&#x7ED1;&#x5B9A;&#x5931;&#x8D25;&#xFF0C;&#x5219;&#x7EE7;&#x7EED;&#x67E5;&#x770B;&#x5230;&#x5E95;&#x662F;&#x54EA;&#x4E2A;&#x7AEF;&#x53E3;&#x7ED9;&#x5360;&#x7528;&#x4E86;</p>
-</blockquote>
-<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&#x8FD0;&#x884C;&#x547D;&#x4EE4;&#xFF1A;netstat -ano | findstr &quot;5037&quot;</span><br></pre></td></tr></table></figure>
-<blockquote>
-<p>&#x6848;&#x5217;,&#x7AEF;&#x53E3;&#x5360;&#x7528;</p>
-</blockquote>
-<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br></pre></td><td class="code"><pre><span class="line">C:\Users\YD30&gt;adb nodaemon server</span><br><span class="line">error: could not install *smartsocket* listener: cannot bind to 127.0.0.1:5037: &#x901A;&#x5E38;&#x6BCF;&#x4E2A;&#x5957;&#x63A5;&#x5B57;&#x5730;&#x5740;(&#x534F;&#x8BAE;/&#x7F51;&#x7EDC;&#x5730;&#x5740;/&#x7AEF;&#x53E3;)&#x53EA;&#x5141;&#x8BB8;&#x4F7F;&#x7528;&#x4E00;&#x6B21;&#x3002; (10048)</span><br><span class="line"></span><br><span class="line">This application has requested the Runtime to terminate it in an unusual way.</span><br><span class="line">Please contact the application&apos;s support team for more information.</span><br><span class="line"></span><br><span class="line">C:\Users\YD30&gt;netstat -ano | findstr &quot;5037&quot;</span><br><span class="line">  TCP    127.0.0.1:5037         0.0.0.0:0              LISTENING       5892</span><br><span class="line">  TCP    127.0.0.1:5037         127.0.0.1:51641        ESTABLISHED     5892</span><br><span class="line">  TCP    127.0.0.1:50925        127.0.0.1:5037         TIME_WAIT       0</span><br><span class="line">  TCP    127.0.0.1:51634        127.0.0.1:5037         TIME_WAIT       0</span><br><span class="line">  TCP    127.0.0.1:51635        127.0.0.1:5037         TIME_WAIT       0</span><br><span class="line">  TCP    127.0.0.1:51636        127.0.0.1:5037         TIME_WAIT       0</span><br><span class="line">  TCP    127.0.0.1:51637        127.0.0.1:5037         TIME_WAIT       0</span><br><span class="line">  TCP    127.0.0.1:51641        127.0.0.1:5037         ESTABLISHED     5968</span><br><span class="line">  TCP    127.0.0.1:51790        127.0.0.1:5037         TIME_WAIT       0</span><br><span class="line">  TCP    127.0.0.1:51801        127.0.0.1:5037         TIME_WAIT       0</span><br><span class="line">  TCP    127.0.0.1:51802        127.0.0.1:5037         TIME_WAIT       0</span><br><span class="line">  TCP    127.0.0.1:51803        127.0.0.1:5037         TIME_WAIT       0</span><br></pre></td></tr></table></figure>
-<blockquote>
-<p>&#x8BF4;&#x660E;&#x5F53;&#x524D;&#x7AEF;&#x53E3;&#x88AB;pid&#x4E3A;8744&#x7684;&#x8FDB;&#x7A0B;&#x5360;&#x7528;</p>
-<ul>
-<li>&#x8FD0;&#x884C;tasklist &#x67E5;&#x770B;&#x5217;&#x8868;pid&#x4E3A;8744&#x7684;&#x8FDB;&#x7A0B;</li>
-<li>&#x76F4;&#x63A5;&#x8FD0;&#x884C;taskkill /pid 8744  </li>
-<li>taskkill /im xxxx.exe</li>
-</ul>
-</blockquote>
-<p> <strong><em>&#x67D0;&#x4E9B;&#x6D41;&#x6C13;&#x8F6F;&#x4EF6;&#x8FDB;&#x7A0B;&#x53EF;&#x80FD;&#x5173;&#x4E0D;&#x6389;&#xFF0C;&#x53EF;&#x4EE5;&#x76F4;&#x63A5;&#x5378;&#x8F7D;</em></strong></p>
-<blockquote>
-<p>adb kill-server &#x7136;&#x540E;&#x8F93;&#x5165;  adb start-server</p>
-</blockquote>
-]]></content>
-      
-        <categories>
-            
-            <category> Android </category>
-            
-        </categories>
-        
-        
-        <tags>
-            
-            <tag> Android </tag>
             
         </tags>
         
