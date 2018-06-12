@@ -869,48 +869,6 @@
     </entry>
     
     <entry>
-      <title><![CDATA[JAVA线程(三)]]></title>
-      <url>/2014/01/10/java-%E5%A4%9A%E7%BA%BF%E7%A8%8B-3/</url>
-      <content type="html"><![CDATA[<p>&#x65F6;&#x95F4;&#x98DE;&#x5FEB;&#x6D41;&#x901D;,&#x5E74;&#x7EAA;&#x4E0D;&#x65AD;&#x589E;&#x957F;,&#x4EBA;&#x603B;&#x8981;&#x627E;&#x70B9;&#x4E8B;&#x60C5;&#x505A;&#xFF0C;&#x8BA9;&#x81EA;&#x5DF1;&#x5FD9;&#x8D77;&#x6765;&#xFF0C;&#x5FD9;&#x8D77;&#x6765;&#x624D;&#x77E5;&#x9053;&#x751F;&#x6D3B;&#x4E0D;&#x6613;&#xFF0C;&#x624D;&#x660E;&#x767D;&#x5E73;&#x65F6;&#x7684;&#x5FE7;&#x4F24;&#x90FD;&#x662F;&#x77EB;&#x60C5;&#x3002;&#x201C;&#x65F6;&#x5149;&#x4E0D;&#x5012;&#x5E26;&#xFF0C;&#x5C81;&#x6708;&#x4E0D;&#x91CD;&#x6765;&#x201D;-&#x81F4;&#x81EA;&#x5DF1; &#x200B;&#x200B;&#x200B;&#x200B;</p>
-<h3 id="&#x591A;&#x7EBF;&#x7A0B;&#x7684;&#x7406;&#x89E3;&#x548C;&#x521B;&#x5EFA;"><a href="#&#x591A;&#x7EBF;&#x7A0B;&#x7684;&#x7406;&#x89E3;&#x548C;&#x521B;&#x5EFA;" class="headerlink" title="&#x591A;&#x7EBF;&#x7A0B;&#x7684;&#x7406;&#x89E3;&#x548C;&#x521B;&#x5EFA;"></a>&#x591A;&#x7EBF;&#x7A0B;&#x7684;&#x7406;&#x89E3;&#x548C;&#x521B;&#x5EFA;</h3>]]></content>
-      
-        <categories>
-            
-            <category> java </category>
-            
-        </categories>
-        
-        
-        <tags>
-            
-            <tag> java </tag>
-            
-        </tags>
-        
-    </entry>
-    
-    <entry>
-      <title><![CDATA[JAVA线程(二)]]></title>
-      <url>/2014/01/10/java-%E5%A4%9A%E7%BA%BF%E7%A8%8B-2/</url>
-      <content type="html"><![CDATA[<p>&#x65F6;&#x95F4;&#x98DE;&#x5FEB;&#x6D41;&#x901D;,&#x5E74;&#x7EAA;&#x4E0D;&#x65AD;&#x589E;&#x957F;,&#x4EBA;&#x603B;&#x8981;&#x627E;&#x70B9;&#x4E8B;&#x60C5;&#x505A;&#xFF0C;&#x8BA9;&#x81EA;&#x5DF1;&#x5FD9;&#x8D77;&#x6765;&#xFF0C;&#x5FD9;&#x8D77;&#x6765;&#x624D;&#x77E5;&#x9053;&#x751F;&#x6D3B;&#x4E0D;&#x6613;&#xFF0C;&#x624D;&#x660E;&#x767D;&#x5E73;&#x65F6;&#x7684;&#x5FE7;&#x4F24;&#x90FD;&#x662F;&#x77EB;&#x60C5;&#x3002;&#x201C;&#x65F6;&#x5149;&#x4E0D;&#x5012;&#x5E26;&#xFF0C;&#x5C81;&#x6708;&#x4E0D;&#x91CD;&#x6765;&#x201D;-&#x81F4;&#x81EA;&#x5DF1; &#x200B;&#x200B;&#x200B;&#x200B;</p>
-<h3 id="&#x591A;&#x7EBF;&#x7A0B;&#x7684;&#x7406;&#x89E3;&#x548C;&#x521B;&#x5EFA;"><a href="#&#x591A;&#x7EBF;&#x7A0B;&#x7684;&#x7406;&#x89E3;&#x548C;&#x521B;&#x5EFA;" class="headerlink" title="&#x591A;&#x7EBF;&#x7A0B;&#x7684;&#x7406;&#x89E3;&#x548C;&#x521B;&#x5EFA;"></a>&#x591A;&#x7EBF;&#x7A0B;&#x7684;&#x7406;&#x89E3;&#x548C;&#x521B;&#x5EFA;</h3>]]></content>
-      
-        <categories>
-            
-            <category> java </category>
-            
-        </categories>
-        
-        
-        <tags>
-            
-            <tag> java </tag>
-            
-        </tags>
-        
-    </entry>
-    
-    <entry>
       <title><![CDATA[JAVA线程(-)]]></title>
       <url>/2014/01/10/java-%E5%A4%9A%E7%BA%BF%E7%A8%8B-1/</url>
       <content type="html"><![CDATA[<p>&#x65F6;&#x95F4;&#x98DE;&#x5FEB;&#x6D41;&#x901D;,&#x5E74;&#x7EAA;&#x4E0D;&#x65AD;&#x589E;&#x957F;,&#x4EBA;&#x603B;&#x8981;&#x627E;&#x70B9;&#x4E8B;&#x60C5;&#x505A;&#xFF0C;&#x8BA9;&#x81EA;&#x5DF1;&#x5FD9;&#x8D77;&#x6765;&#xFF0C;&#x5FD9;&#x8D77;&#x6765;&#x624D;&#x77E5;&#x9053;&#x751F;&#x6D3B;&#x4E0D;&#x6613;&#xFF0C;&#x624D;&#x660E;&#x767D;&#x5E73;&#x65F6;&#x7684;&#x5FE7;&#x4F24;&#x90FD;&#x662F;&#x77EB;&#x60C5;&#x3002;&#x201C;&#x65F6;&#x5149;&#x4E0D;&#x5012;&#x5E26;&#xFF0C;&#x5C81;&#x6708;&#x4E0D;&#x91CD;&#x6765;&#x201D;-&#x81F4;&#x81EA;&#x5DF1; &#x200B;&#x200B;&#x200B;&#x200B;</p>
@@ -946,6 +904,48 @@
 <li>&#x6709;&#x5229;&#x4E8E;&#x7A0B;&#x5E8F;&#x7684;&#x5065;&#x58EE;&#x6027;&#xFF0C;&#x4EE3;&#x7801;&#x80FD;&#x591F;&#x88AB;&#x591A;&#x4E2A;&#x7A0B;&#x5E8F;&#x5171;&#x4EAB;&#xFF0C;&#x4EE3;&#x7801;&#x4E0E;&#x6570;&#x636E;&#x662F;&#x72EC;&#x7ACB;&#x7684;&#xFF0C;&#x5F53;&#x591A;&#x4E2A;&#x7EBF;&#x7A0B;&#x7684;&#x6267;&#x884C;&#x4EE3;&#x7801;&#x6765;&#x81EA;&#x540C;&#x4E00;&#x4E2A;&#x7C7B;&#x65F6;&#xFF0C;&#x65E2;&#x79F0;&#x4ED6;&#x4EEC;&#x5171;&#x4EAB;&#x76F8;&#x540C;&#x7684;&#x4EE3;&#x7801;&#xFF0C;<br>&#x591A;&#x4E2A;&#x7EBF;&#x7A0B;&#x53EF;&#x4EE5;&#x64CD;&#x4F5C;&#x76F8;&#x540C;&#x7684;&#x6570;&#x636E;&#xFF0C;&#x4E0E;&#x4ED6;&#x4EEC;&#x7684;&#x4EE3;&#x7801;&#x65E0;&#x5173;&#xFF0C;&#x5F53;&#x5171;&#x4EAB;&#x8BBF;&#x95EE;&#x76F8;&#x540C;&#x5BF9;&#x8C61;&#x65F6;&#xFF0C;&#x65E2;&#x4ED6;&#x4EEC;&#x5171;&#x4EAB;&#x76F8;&#x540C;&#x7684;&#x6570;&#x636E;&#x3002;&#x5F53;&#x7EBF;&#x7A0B;&#x88AB;&#x6784;&#x9020;&#x65F6;&#xFF0C;&#x9700;&#x8981;&#x7684;&#x4EE3;&#x7801;&#x548C;&#x6570;&#x636E;<br>&#x901A;&#x8FC7;&#x4E00;&#x4E2A;&#x5BF9;&#x8C61;&#x4F5C;&#x4E3A;&#x6784;&#x9020;&#x51FD;&#x6570;&#x5B9E;&#x53C2;&#x4F20;&#x9012;&#x8FDB;&#x53BB;&#xFF0C;&#x8FD9;&#x4E2A;&#x5BF9;&#x8C61;&#x5C31;&#x662F;&#x4E00;&#x4E2A;&#x5B9E;&#x73B0;&#x4E86;Runnable &#x63A5;&#x53E3;&#x7684;&#x7C7B;&#x7684;&#x5B9E;&#x4F8B;&#x3002;</li>
 </ul>
 ]]></content>
+      
+        <categories>
+            
+            <category> java </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> java </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[JAVA线程(三)]]></title>
+      <url>/2014/01/10/java-%E5%A4%9A%E7%BA%BF%E7%A8%8B-3/</url>
+      <content type="html"><![CDATA[<p>&#x65F6;&#x95F4;&#x98DE;&#x5FEB;&#x6D41;&#x901D;,&#x5E74;&#x7EAA;&#x4E0D;&#x65AD;&#x589E;&#x957F;,&#x4EBA;&#x603B;&#x8981;&#x627E;&#x70B9;&#x4E8B;&#x60C5;&#x505A;&#xFF0C;&#x8BA9;&#x81EA;&#x5DF1;&#x5FD9;&#x8D77;&#x6765;&#xFF0C;&#x5FD9;&#x8D77;&#x6765;&#x624D;&#x77E5;&#x9053;&#x751F;&#x6D3B;&#x4E0D;&#x6613;&#xFF0C;&#x624D;&#x660E;&#x767D;&#x5E73;&#x65F6;&#x7684;&#x5FE7;&#x4F24;&#x90FD;&#x662F;&#x77EB;&#x60C5;&#x3002;&#x201C;&#x65F6;&#x5149;&#x4E0D;&#x5012;&#x5E26;&#xFF0C;&#x5C81;&#x6708;&#x4E0D;&#x91CD;&#x6765;&#x201D;-&#x81F4;&#x81EA;&#x5DF1; &#x200B;&#x200B;&#x200B;&#x200B;</p>
+<h3 id="&#x591A;&#x7EBF;&#x7A0B;&#x7684;&#x7406;&#x89E3;&#x548C;&#x521B;&#x5EFA;"><a href="#&#x591A;&#x7EBF;&#x7A0B;&#x7684;&#x7406;&#x89E3;&#x548C;&#x521B;&#x5EFA;" class="headerlink" title="&#x591A;&#x7EBF;&#x7A0B;&#x7684;&#x7406;&#x89E3;&#x548C;&#x521B;&#x5EFA;"></a>&#x591A;&#x7EBF;&#x7A0B;&#x7684;&#x7406;&#x89E3;&#x548C;&#x521B;&#x5EFA;</h3>]]></content>
+      
+        <categories>
+            
+            <category> java </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> java </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[JAVA线程(二)]]></title>
+      <url>/2014/01/10/java-%E5%A4%9A%E7%BA%BF%E7%A8%8B-2/</url>
+      <content type="html"><![CDATA[<p>&#x65F6;&#x95F4;&#x98DE;&#x5FEB;&#x6D41;&#x901D;,&#x5E74;&#x7EAA;&#x4E0D;&#x65AD;&#x589E;&#x957F;,&#x4EBA;&#x603B;&#x8981;&#x627E;&#x70B9;&#x4E8B;&#x60C5;&#x505A;&#xFF0C;&#x8BA9;&#x81EA;&#x5DF1;&#x5FD9;&#x8D77;&#x6765;&#xFF0C;&#x5FD9;&#x8D77;&#x6765;&#x624D;&#x77E5;&#x9053;&#x751F;&#x6D3B;&#x4E0D;&#x6613;&#xFF0C;&#x624D;&#x660E;&#x767D;&#x5E73;&#x65F6;&#x7684;&#x5FE7;&#x4F24;&#x90FD;&#x662F;&#x77EB;&#x60C5;&#x3002;&#x201C;&#x65F6;&#x5149;&#x4E0D;&#x5012;&#x5E26;&#xFF0C;&#x5C81;&#x6708;&#x4E0D;&#x91CD;&#x6765;&#x201D;-&#x81F4;&#x81EA;&#x5DF1; &#x200B;&#x200B;&#x200B;&#x200B;</p>
+<h3 id="&#x591A;&#x7EBF;&#x7A0B;&#x7684;&#x7406;&#x89E3;&#x548C;&#x521B;&#x5EFA;"><a href="#&#x591A;&#x7EBF;&#x7A0B;&#x7684;&#x7406;&#x89E3;&#x548C;&#x521B;&#x5EFA;" class="headerlink" title="&#x591A;&#x7EBF;&#x7A0B;&#x7684;&#x7406;&#x89E3;&#x548C;&#x521B;&#x5EFA;"></a>&#x591A;&#x7EBF;&#x7A0B;&#x7684;&#x7406;&#x89E3;&#x548C;&#x521B;&#x5EFA;</h3>]]></content>
       
         <categories>
             
@@ -1023,7 +1023,7 @@
 <p><strong>&#x61D2;&#x6C49;&#x5F0F;</strong><br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br></pre></td><td class="code"><pre><span class="line">&#x61D2;&#x6C49;&#x5F0F; &#x52A0;&#x4E0A;&#x540C;&#x6B65;synchronized &#x6BD4;&#x8F83;&#x4F4E;&#x6548;&#xFF1A;</span><br><span class="line"></span><br><span class="line">class Single</span><br><span class="line">{</span><br><span class="line">	private static Single s = null;</span><br><span class="line"></span><br><span class="line">	private Single(){</span><br><span class="line">	}</span><br><span class="line"></span><br><span class="line">	public static  Single getInstance()</span><br><span class="line">	{</span><br><span class="line">		// &#x51CF;&#x5C11;&#x5224;&#x65AD;&#x9501;&#x7684;&#x6B21;&#x6570;&#xFF0C;&#x63D0;&#x9AD8;&#x5224;&#x65AD;&#x9501;&#x7684;&#x6548;&#x7387;.</span><br><span class="line">		if(s==null)</span><br><span class="line">		{</span><br><span class="line">			synchronized(Single.class)</span><br><span class="line">			{</span><br><span class="line">				if(s==null)</span><br><span class="line">					s = new Single();</span><br><span class="line">			}</span><br><span class="line">		}</span><br><span class="line">		return s;</span><br><span class="line">	}</span><br><span class="line">}</span><br></pre></td></tr></table></figure></p>
 <h3 id="&#x540C;&#x6B65;&#x4E2D;&#x6B7B;&#x9501;"><a href="#&#x540C;&#x6B65;&#x4E2D;&#x6B7B;&#x9501;" class="headerlink" title="&#x540C;&#x6B65;&#x4E2D;&#x6B7B;&#x9501;"></a>&#x540C;&#x6B65;&#x4E2D;&#x6B7B;&#x9501;</h3><p><strong>&#x4F8B;&#x5982;</strong></p>
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br><span class="line">41</span><br><span class="line">42</span><br><span class="line">43</span><br><span class="line">44</span><br><span class="line">45</span><br><span class="line">46</span><br><span class="line">47</span><br><span class="line">48</span><br><span class="line">49</span><br><span class="line">50</span><br><span class="line">51</span><br><span class="line">52</span><br><span class="line">53</span><br><span class="line">54</span><br><span class="line">55</span><br><span class="line">56</span><br><span class="line">57</span><br></pre></td><td class="code"><pre><span class="line">class Test implements Runnable</span><br><span class="line">{</span><br><span class="line">	private boolean flag;</span><br><span class="line"></span><br><span class="line">	Test(boolean flag)</span><br><span class="line">	{</span><br><span class="line">		this.flag = flag;</span><br><span class="line">	}</span><br><span class="line"></span><br><span class="line">	public void run()</span><br><span class="line">	{</span><br><span class="line">		if(flag)</span><br><span class="line">		{</span><br><span class="line">				while(true)</span><br><span class="line">				{</span><br><span class="line">					synchronized(MyLock.locka)</span><br><span class="line">					{</span><br><span class="line">						System.out.println(Thread.currentThread().getName()+&quot;...if locka &quot;);</span><br><span class="line">						synchronized(MyLock.lockb)</span><br><span class="line">						{</span><br><span class="line">							System.out.println(Thread.currentThread().getName()+&quot;..if lockb&quot;);		</span><br><span class="line">						}</span><br><span class="line">					}</span><br><span class="line">				}</span><br><span class="line">		}else{</span><br><span class="line">				while(true)</span><br><span class="line">				{</span><br><span class="line">					synchronized(MyLock.lockb)</span><br><span class="line">					{</span><br><span class="line">						System.out.println(Thread.currentThread().getName()+&quot;..else lockb&quot;);</span><br><span class="line">						synchronized(MyLock.locka)</span><br><span class="line">						{</span><br><span class="line">							System.out.println(Thread.currentThread().getName()+&quot;.....else locka&quot;);</span><br><span class="line">						}</span><br><span class="line">					}</span><br><span class="line">				}</span><br><span class="line">		}</span><br><span class="line">	}</span><br><span class="line">}</span><br><span class="line"></span><br><span class="line"></span><br><span class="line">class MyLock</span><br><span class="line">{</span><br><span class="line">	static Object locka = new Object();</span><br><span class="line">	static Object lockb = new Object();</span><br><span class="line">}</span><br><span class="line"></span><br><span class="line">class  DeadLockTest</span><br><span class="line">{</span><br><span class="line">	public static void main(String[] args) </span><br><span class="line">	{</span><br><span class="line">		Thread t1 = new Thread(new Test(true));</span><br><span class="line">		Thread t2 = new Thread(new Test(false));</span><br><span class="line">		t1.start();</span><br><span class="line">		t2.start();</span><br><span class="line">	}</span><br><span class="line">}</span><br></pre></td></tr></table></figure>
-<h4 id="&#x7EBF;&#x7A0B;&#x72B6;&#x6001;&#x56FE;"><a href="#&#x7EBF;&#x7A0B;&#x72B6;&#x6001;&#x56FE;" class="headerlink" title="&#x7EBF;&#x7A0B;&#x72B6;&#x6001;&#x56FE;"></a>&#x7EBF;&#x7A0B;&#x72B6;&#x6001;&#x56FE;</h4><p><img src="/2013/09/25/JAVA-11/&#x7EBF;&#x7A0B;&#x72B6;&#x6001;&#x56FE;.bmp" alt=""></p>
+<h3 id="&#x7EBF;&#x7A0B;&#x72B6;&#x6001;&#x56FE;"><a href="#&#x7EBF;&#x7A0B;&#x72B6;&#x6001;&#x56FE;" class="headerlink" title="&#x7EBF;&#x7A0B;&#x72B6;&#x6001;&#x56FE;"></a>&#x7EBF;&#x7A0B;&#x72B6;&#x6001;&#x56FE;</h3><p><img src="/2013/09/25/JAVA-11/&#x7EBF;&#x7A0B;&#x72B6;&#x6001;&#x56FE;.bmp" alt=""></p>
 ]]></content>
       
         <categories>
