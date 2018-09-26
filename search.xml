@@ -31,32 +31,8 @@
 <td>&#x5B98;&#x7F51; Android Studio&#x4F7F;&#x7528;&#x6307;&#x5357;</td>
 </tr>
 <tr>
-<td> <a href="https://android-developers.blogspot.jp/" target="_blank" rel="noopener"> <strong>developers</strong> </a></td>
-<td>&#x5B98;&#x7F51; developers&#x66F4;&#x65B0;&#x7684;Blog</td>
-</tr>
-<tr>
-<td> <a href="https://source.android.com/" target="_blank" rel="noopener"> <strong>Android &#x4E2D;&#x6587;&#x7248;Blog</strong> </a></td>
-<td>&#x5B98;&#x7F51; Android &#x4E2D;&#x6587;&#x7248;&#x8BE6;&#x7EC6;&#x4ECB;&#x7ECD;</td>
-</tr>
-<tr>
 <td> <a href="https://android.googlesource.com/?format=HTML" target="_blank" rel="noopener"> <strong>googlesource</strong> </a></td>
 <td>Google Source &#x7684;Git&#x4ED3;&#x5E93;</td>
-</tr>
-<tr>
-<td> <a href="https://www.android.com/" target="_blank" rel="noopener"> <strong>google play</strong> </a></td>
-<td>&#x5F53;&#x524D;google play &#x5168;&#x90E8;&#x7684;&#x8BBE;&#x5907;&#x4FE1;&#x606F;</td>
-</tr>
-<tr>
-<td> <a href="https://blog.google/" target="_blank" rel="noopener"> <strong>google blog</strong> </a></td>
-<td>&#x53EF;&#x4EE5;&#x4E86;&#x89E3;google &#x6700;&#x65B0;&#x7684;&#x65B0;&#x95FB;&#x54A8;&#x8BE2;</td>
-</tr>
-<tr>
-<td> <a href="http://wear.techbrood.com/" target="_blank" rel="noopener"> <strong>Android &#x5F00;&#x53D1;&#x6587;&#x6863;</strong> </a></td>
-<td>Android &#x5F00;&#x53D1;&#x6587;&#x6863;</td>
-</tr>
-<tr>
-<td> <a href="https://code.tutsplus.com/categories/android-sdk/courses" target="_blank" rel="noopener"> <strong>Envato Android &#x5B66;&#x4E60;&#x8BFE;&#x4EF6;</strong> </a></td>
-<td>&#x53EF;&#x4EE5;&#x4E86;&#x89E3;Android&#x6700;&#x65B0;&#x6280;&#x672F;&#x5B66;&#x4E60;</td>
 </tr>
 </tbody>
 </table>
@@ -321,80 +297,6 @@
 <tr>
 <td><a href="http://blog.csdn.net/zhangerqing/article/details/8194653" target="_blank" rel="noopener">&#x83DC;&#x9E1F;&#x8BBE;&#x8BA1;&#x6A21;&#x5F0F;</a></td>
 <td>&#x4ECE;&#x83DC;&#x9E1F;&#x5230;&#x9AD8;&#x624B;&#x6F14;&#x53D8;]&#x4E4B;&#x8BBE;&#x8BA1;&#x6A21;&#x5F0F;</td>
-</tr>
-</tbody>
-</table>
-<h3 id="&#x4E66;&#x7C4D;&#x63A8;&#x8350;"><a href="#&#x4E66;&#x7C4D;&#x63A8;&#x8350;" class="headerlink" title="&#x4E66;&#x7C4D;&#x63A8;&#x8350;"></a>&#x4E66;&#x7C4D;&#x63A8;&#x8350;</h3><table>
-<thead>
-<tr>
-<th>&#x4E66;&#x7C4D;&#x540D;&#x79F0;</th>
-<th>&#x5907;&#x6CE8;</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><a href="https://book.douban.com/subject/25942191/" target="_blank" rel="noopener">&#x7B2C;&#x4E00;&#x884C;&#x4EE3;&#x7801;</a></td>
-<td>&#x90ED;&#x9716;&#x5927;&#x6770;&#x4F5C;&#xFF0C;&#x9002;&#x5408;&#x65B0;&#x4EBA;</td>
-</tr>
-<tr>
-<td><a href="https://book.douban.com/subject/25762168/" target="_blank" rel="noopener">Java&#x6838;&#x5FC3;&#x6280;&#x672F; &#x5377;I</a></td>
-<td>java&#x5165;&#x95E8;&#x4E66;&#x7C4D;</td>
-</tr>
-<tr>
-<td><a href="https://book.douban.com/subject/3360807/" target="_blank" rel="noopener">Effective Java</a></td>
-<td>&#x8FDB;&#x9636;&#x4E66; </td>
-</tr>
-<tr>
-<td><a href="https://book.douban.com/subject/10484692/" target="_blank" rel="noopener">Java&#x5E76;&#x53D1;&#x7F16;&#x7A0B;</a></td>
-<td>Java&#x5E76;&#x53D1;&#x7F16;&#x7A0B;</td>
-</tr>
-<tr>
-<td><a href="https://book.douban.com/subject/26274206/" target="_blank" rel="noopener">&#x7ED9;&#x5927;&#x5FD9;&#x4EBA;&#x770B;&#x7684;Java8</a></td>
-<td>&#x7ED9;&#x5927;&#x5FD9;&#x4EBA;&#x770B;&#x7684;Java8</td>
-</tr>
-<tr>
-<td><a href="https://book.douban.com/subject/1723199/" target="_blank" rel="noopener">Thinking In Java &#x4E2D;&#x6587;&#x7248;</a></td>
-<td>&#x5B66;&#x4E60;Java &#x8BED;&#x8A00;&#x5FC5;&#x5907;&#x4E66;&#x7C4D;</td>
-</tr>
-<tr>
-<td><a href="https://book.douban.com/subject/26599539/" target="_blank" rel="noopener">Android&#x7FA4;&#x82F1;&#x4F20;</a></td>
-<td>&#x672C;&#x4E66;&#x4F5C;&#x8005; @Tomcat &#x7684;&#x732B;&#x3002;</td>
-</tr>
-<tr>
-<td><a href="http://product.china-pub.com/4806147" target="_blank" rel="noopener">Android&#x5F00;&#x53D1;&#x827A;&#x672F;&#x63A2;&#x7D22;</a></td>
-<td>&#x7531;&#x4EFB;&#x7389;&#x521A;&#x6240;&#x8457;.</td>
-</tr>
-<tr>
-<td><a href="https://book.douban.com/subject/24722612/" target="_blank" rel="noopener">&#x6DF1;&#x5165;&#x7406;&#x89E3;Java&#x865A;&#x62DF;&#x673A;</a></td>
-<td>&#x4E0D;&#x662F;&#x5F88;&#x96BE; &#xFF0C;&#x9700;&#x8981;&#x770B;&#x770B;</td>
-</tr>
-<tr>
-<td><a href="https://book.douban.com/subject/4889838/" target="_blank" rel="noopener">&#x9E1F;&#x54E5;&#x7684;Linux&#x79C1;&#x623F;&#x83DC;</a></td>
-<td>&#x592A;&#x7ECF;&#x5178;&#x3002;</td>
-</tr>
-<tr>
-<td><a href="https://book.douban.com/subject/25863515/" target="_blank" rel="noopener">&#x56FE;&#x89E3;Http</a></td>
-<td>&#x8BA9;&#x4F60;&#x5F88;&#x5FEB;&#x4E0A;&#x624B;http&#x3002;</td>
-</tr>
-<tr>
-<td><a href="https://book.douban.com/subject/2243615/" target="_blank" rel="noopener">Head First&#x8BBE;&#x8BA1;&#x6A21;&#x5F0F;</a></td>
-<td>Head First&#x8BBE;&#x8BA1;&#x6A21;&#x5F0F;</td>
-</tr>
-<tr>
-<td><a href="https://book.douban.com/subject/5387402/" target="_blank" rel="noopener">&#x7A0B;&#x5E8F;&#x5458;&#x4FEE;&#x70BC;&#x4E4B;&#x9053;</a></td>
-<td>&#x7A0B;&#x5E8F;&#x5458;&#x4FEE;&#x70BC;&#x4E4B;&#x9053;</td>
-</tr>
-<tr>
-<td><a href="http://iissnan.com/progit/html/zh/ch1_0.html" target="_blank" rel="noopener">Git&#x6743;&#x5A01;&#x6307;&#x5357;&#x4E2D;&#x6587;&#x624B;&#x518C;</a></td>
-<td>Git&#x6743;&#x5A01;&#x6307;&#x5357;&#x4E2D;&#x6587;&#x624B;&#x518C;</td>
-</tr>
-<tr>
-<td><a href="https://book.douban.com/subject/1139426/" target="_blank" rel="noopener">&#x6570;&#x636E;&#x7ED3;&#x6784;&#x4E0E;&#x7B97;&#x6CD5;&#x57FA;&#x7840;</a></td>
-<td>&#x6570;&#x636E;&#x7ED3;&#x6784;&#x548C;&#x7B97;&#x6CD5;&#x7684;&#x4E66;&#xFF0C;&#x6BD4;&#x8F83;&#x5168;</td>
-</tr>
-<tr>
-<td><a href="https://book.douban.com/subject/2228378/" target="_blank" rel="noopener">JavaScript&#x6743;&#x5A01;&#x6307;&#x5357;</a></td>
-<td>JavaScript&#x6743;&#x5A01;&#x6307;&#x5357;&#xFF0C;&#x5B66;&#x4E60;js&#x4E00;&#x672C;&#x4E66;&#x5DEE;&#x4E0D;&#x591A;&#x4E86;</td>
 </tr>
 </tbody>
 </table>
@@ -940,27 +842,6 @@
     </entry>
     
     <entry>
-      <title><![CDATA[JAVA线程(三)]]></title>
-      <url>/2014/01/10/java-%E5%A4%9A%E7%BA%BF%E7%A8%8B-3/</url>
-      <content type="html"><![CDATA[<p>&#x65F6;&#x95F4;&#x98DE;&#x5FEB;&#x6D41;&#x901D;,&#x5E74;&#x7EAA;&#x4E0D;&#x65AD;&#x589E;&#x957F;,&#x4EBA;&#x603B;&#x8981;&#x627E;&#x70B9;&#x4E8B;&#x60C5;&#x505A;&#xFF0C;&#x8BA9;&#x81EA;&#x5DF1;&#x5FD9;&#x8D77;&#x6765;&#xFF0C;&#x5FD9;&#x8D77;&#x6765;&#x624D;&#x77E5;&#x9053;&#x751F;&#x6D3B;&#x4E0D;&#x6613;&#xFF0C;&#x624D;&#x660E;&#x767D;&#x5E73;&#x65F6;&#x7684;&#x5FE7;&#x4F24;&#x90FD;&#x662F;&#x77EB;&#x60C5;&#x3002;&#x201C;&#x65F6;&#x5149;&#x4E0D;&#x5012;&#x5E26;&#xFF0C;&#x5C81;&#x6708;&#x4E0D;&#x91CD;&#x6765;&#x201D;-&#x81F4;&#x81EA;&#x5DF1; &#x200B;&#x200B;&#x200B;&#x200B;</p>
-<h3 id="&#x591A;&#x7EBF;&#x7A0B;&#x7684;&#x7406;&#x89E3;&#x548C;&#x521B;&#x5EFA;"><a href="#&#x591A;&#x7EBF;&#x7A0B;&#x7684;&#x7406;&#x89E3;&#x548C;&#x521B;&#x5EFA;" class="headerlink" title="&#x591A;&#x7EBF;&#x7A0B;&#x7684;&#x7406;&#x89E3;&#x548C;&#x521B;&#x5EFA;"></a>&#x591A;&#x7EBF;&#x7A0B;&#x7684;&#x7406;&#x89E3;&#x548C;&#x521B;&#x5EFA;</h3>]]></content>
-      
-        <categories>
-            
-            <category> java </category>
-            
-        </categories>
-        
-        
-        <tags>
-            
-            <tag> java </tag>
-            
-        </tags>
-        
-    </entry>
-    
-    <entry>
       <title><![CDATA[JAVA线程(二)]]></title>
       <url>/2014/01/10/java-%E5%A4%9A%E7%BA%BF%E7%A8%8B-2/</url>
       <content type="html"><![CDATA[<p>&#x65F6;&#x95F4;&#x98DE;&#x5FEB;&#x6D41;&#x901D;,&#x5E74;&#x7EAA;&#x4E0D;&#x65AD;&#x589E;&#x957F;,&#x4EBA;&#x603B;&#x8981;&#x627E;&#x70B9;&#x4E8B;&#x60C5;&#x505A;&#xFF0C;&#x8BA9;&#x81EA;&#x5DF1;&#x5FD9;&#x8D77;&#x6765;&#xFF0C;&#x5FD9;&#x8D77;&#x6765;&#x624D;&#x77E5;&#x9053;&#x751F;&#x6D3B;&#x4E0D;&#x6613;&#xFF0C;&#x624D;&#x660E;&#x767D;&#x5E73;&#x65F6;&#x7684;&#x5FE7;&#x4F24;&#x90FD;&#x662F;&#x77EB;&#x60C5;&#x3002;&#x201C;&#x65F6;&#x5149;&#x4E0D;&#x5012;&#x5E26;&#xFF0C;&#x5C81;&#x6708;&#x4E0D;&#x91CD;&#x6765;&#x201D;-&#x81F4;&#x81EA;&#x5DF1; &#x200B;&#x200B;&#x200B;&#x200B;</p>
@@ -1017,6 +898,27 @@
 <li>&#x6709;&#x5229;&#x4E8E;&#x7A0B;&#x5E8F;&#x7684;&#x5065;&#x58EE;&#x6027;&#xFF0C;&#x4EE3;&#x7801;&#x80FD;&#x591F;&#x88AB;&#x591A;&#x4E2A;&#x7A0B;&#x5E8F;&#x5171;&#x4EAB;&#xFF0C;&#x4EE3;&#x7801;&#x4E0E;&#x6570;&#x636E;&#x662F;&#x72EC;&#x7ACB;&#x7684;&#xFF0C;&#x5F53;&#x591A;&#x4E2A;&#x7EBF;&#x7A0B;&#x7684;&#x6267;&#x884C;&#x4EE3;&#x7801;&#x6765;&#x81EA;&#x540C;&#x4E00;&#x4E2A;&#x7C7B;&#x65F6;&#xFF0C;&#x65E2;&#x79F0;&#x4ED6;&#x4EEC;&#x5171;&#x4EAB;&#x76F8;&#x540C;&#x7684;&#x4EE3;&#x7801;&#xFF0C;<br>&#x591A;&#x4E2A;&#x7EBF;&#x7A0B;&#x53EF;&#x4EE5;&#x64CD;&#x4F5C;&#x76F8;&#x540C;&#x7684;&#x6570;&#x636E;&#xFF0C;&#x4E0E;&#x4ED6;&#x4EEC;&#x7684;&#x4EE3;&#x7801;&#x65E0;&#x5173;&#xFF0C;&#x5F53;&#x5171;&#x4EAB;&#x8BBF;&#x95EE;&#x76F8;&#x540C;&#x5BF9;&#x8C61;&#x65F6;&#xFF0C;&#x65E2;&#x4ED6;&#x4EEC;&#x5171;&#x4EAB;&#x76F8;&#x540C;&#x7684;&#x6570;&#x636E;&#x3002;&#x5F53;&#x7EBF;&#x7A0B;&#x88AB;&#x6784;&#x9020;&#x65F6;&#xFF0C;&#x9700;&#x8981;&#x7684;&#x4EE3;&#x7801;&#x548C;&#x6570;&#x636E;<br>&#x901A;&#x8FC7;&#x4E00;&#x4E2A;&#x5BF9;&#x8C61;&#x4F5C;&#x4E3A;&#x6784;&#x9020;&#x51FD;&#x6570;&#x5B9E;&#x53C2;&#x4F20;&#x9012;&#x8FDB;&#x53BB;&#xFF0C;&#x8FD9;&#x4E2A;&#x5BF9;&#x8C61;&#x5C31;&#x662F;&#x4E00;&#x4E2A;&#x5B9E;&#x73B0;&#x4E86;Runnable &#x63A5;&#x53E3;&#x7684;&#x7C7B;&#x7684;&#x5B9E;&#x4F8B;&#x3002;</li>
 </ul>
 ]]></content>
+      
+        <categories>
+            
+            <category> java </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> java </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[JAVA线程(三)]]></title>
+      <url>/2014/01/10/java-%E5%A4%9A%E7%BA%BF%E7%A8%8B-3/</url>
+      <content type="html"><![CDATA[<p>&#x65F6;&#x95F4;&#x98DE;&#x5FEB;&#x6D41;&#x901D;,&#x5E74;&#x7EAA;&#x4E0D;&#x65AD;&#x589E;&#x957F;,&#x4EBA;&#x603B;&#x8981;&#x627E;&#x70B9;&#x4E8B;&#x60C5;&#x505A;&#xFF0C;&#x8BA9;&#x81EA;&#x5DF1;&#x5FD9;&#x8D77;&#x6765;&#xFF0C;&#x5FD9;&#x8D77;&#x6765;&#x624D;&#x77E5;&#x9053;&#x751F;&#x6D3B;&#x4E0D;&#x6613;&#xFF0C;&#x624D;&#x660E;&#x767D;&#x5E73;&#x65F6;&#x7684;&#x5FE7;&#x4F24;&#x90FD;&#x662F;&#x77EB;&#x60C5;&#x3002;&#x201C;&#x65F6;&#x5149;&#x4E0D;&#x5012;&#x5E26;&#xFF0C;&#x5C81;&#x6708;&#x4E0D;&#x91CD;&#x6765;&#x201D;-&#x81F4;&#x81EA;&#x5DF1; &#x200B;&#x200B;&#x200B;&#x200B;</p>
+<h3 id="&#x591A;&#x7EBF;&#x7A0B;&#x7684;&#x7406;&#x89E3;&#x548C;&#x521B;&#x5EFA;"><a href="#&#x591A;&#x7EBF;&#x7A0B;&#x7684;&#x7406;&#x89E3;&#x548C;&#x521B;&#x5EFA;" class="headerlink" title="&#x591A;&#x7EBF;&#x7A0B;&#x7684;&#x7406;&#x89E3;&#x548C;&#x521B;&#x5EFA;"></a>&#x591A;&#x7EBF;&#x7A0B;&#x7684;&#x7406;&#x89E3;&#x548C;&#x521B;&#x5EFA;</h3>]]></content>
       
         <categories>
             
@@ -1637,7 +1539,11 @@ uter.Inner.function();
 <li>3&#xFF0C;&#x88AB;&#x6240;&#x6709;&#x5BF9;&#x8C61;&#x6240;&#x5171;&#x4EAB;</li>
 <li>4&#xFF0C;&#x53EF;&#x4EE5;&#x76F4;&#x63A5;&#x88AB;&#x7C7B;&#x540D;&#x6240;&#x8C03;&#x7528;&#x3002;</li>
 </ul>
+</blockquote>
+<blockquote>
 <p>&#x5B9E;&#x4F8B;&#x53D8;&#x91CF;&#x548C;&#x7C7B;&#x53D8;&#x91CF;&#x7684;&#x533A;&#x522B;&#xFF1A;<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">1&#xFF0C;&#x5B58;&#x653E;&#x4F4D;&#x7F6E;&#x3002;</span><br><span class="line">	&#x7C7B;&#x53D8;&#x91CF;&#x968F;&#x7740;&#x7C7B;&#x7684;&#x52A0;&#x8F7D;&#x800C;&#x5B58;&#x5728;&#x4E8E;&#x65B9;&#x6CD5;&#x533A;&#x4E2D;&#x3002;</span><br><span class="line">	&#x5B9E;&#x4F8B;&#x53D8;&#x91CF;&#x968F;&#x7740;&#x5BF9;&#x8C61;&#x7684;&#x5EFA;&#x7ACB;&#x800C;&#x5B58;&#x5728;&#x4E8E;&#x5806;&#x5185;&#x5B58;&#x4E2D;&#x3002;</span><br><span class="line">2&#xFF0C;&#x751F;&#x547D;&#x5468;&#x671F;&#xFF1A;</span><br><span class="line">	&#x7C7B;&#x53D8;&#x91CF;&#x751F;&#x547D;&#x5468;&#x671F;&#x6700;&#x957F;&#xFF0C;&#x968F;&#x7740;&#x7C7B;&#x7684;&#x6D88;&#x5931;&#x800C;&#x6D88;&#x5931;&#x3002;</span><br><span class="line">	&#x5B9E;&#x4F8B;&#x53D8;&#x91CF;&#x751F;&#x547D;&#x5468;&#x671F;&#x968F;&#x7740;&#x5BF9;&#x8C61;&#x7684;&#x6D88;&#x5931;&#x800C;&#x6D88;&#x5931;&#x3002;</span><br></pre></td></tr></table></figure></p>
+</blockquote>
+<blockquote>
 <p>&#x9759;&#x6001;&#x4F7F;&#x7528;&#x6CE8;&#x610F;&#x4E8B;&#x9879;&#xFF1A;<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">1&#xFF0C;&#x9759;&#x6001;&#x65B9;&#x6CD5;&#x53EA;&#x80FD;&#x8BBF;&#x95EE;&#x9759;&#x6001;&#x6210;&#x5458;&#x3002;</span><br><span class="line">	&#x975E;&#x9759;&#x6001;&#x65B9;&#x6CD5;&#x65E2;&#x53EF;&#x4EE5;&#x8BBF;&#x95EE;&#x9759;&#x6001;&#x4E5F;&#x53EF;&#x4EE5;&#x8BBF;&#x95EE;&#x975E;&#x9759;&#x6001;&#x3002;</span><br><span class="line">2&#xFF0C;&#x9759;&#x6001;&#x65B9;&#x6CD5;&#x4E2D;&#x4E0D;&#x53EF;&#x4EE5;&#x5B9A;&#x4E49;this&#xFF0C;super&#x5173;&#x952E;&#x5B57;&#x3002;</span><br><span class="line">	&#x56E0;&#x4E3A;&#x9759;&#x6001;&#x4F18;&#x5148;&#x4E8E;&#x5BF9;&#x8C61;&#x5B58;&#x5728;&#x3002;&#x6240;&#x4EE5;&#x9759;&#x6001;&#x65B9;&#x6CD5;&#x4E2D;&#x4E0D;&#x53EF;&#x4EE5;&#x51FA;&#x73B0;this&#x3002;</span><br><span class="line">3&#xFF0C;&#x4E3B;&#x51FD;&#x6570;&#x662F;&#x9759;&#x6001;&#x7684;&#x3002;</span><br></pre></td></tr></table></figure></p>
 </blockquote>
 <h5 id="&#x9759;&#x6001;&#x6709;&#x5229;&#x6709;&#x5F0A;"><a href="#&#x9759;&#x6001;&#x6709;&#x5229;&#x6709;&#x5F0A;" class="headerlink" title="&#x9759;&#x6001;&#x6709;&#x5229;&#x6709;&#x5F0A;"></a>&#x9759;&#x6001;&#x6709;&#x5229;&#x6709;&#x5F0A;</h5><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">&#x5229;&#x5904;&#xFF1A;&#x5BF9;&#x5BF9;&#x8C61;&#x7684;&#x5171;&#x4EAB;&#x6570;&#x636E;&#x8FDB;&#x884C;&#x5355;&#x72EC;&#x7A7A;&#x95F4;&#x7684;&#x5B58;&#x50A8;&#xFF0C;&#x8282;&#x7701;&#x7A7A;&#x95F4;&#x3002;&#x6CA1;&#x6709;&#x5FC5;&#x8981;&#x6BCF;&#x4E00;&#x4E2A;&#x5BF9;&#x8C61;&#x4E2D;&#x90FD;&#x5B58;&#x50A8;&#x4E00;&#x4EFD;&#x3002;</span><br><span class="line">	&#x53EF;&#x4EE5;&#x76F4;&#x63A5;&#x88AB;&#x7C7B;&#x540D;&#x8C03;&#x7528;&#x3002;</span><br><span class="line">&#x5F0A;&#x7AEF;&#xFF1A;&#x751F;&#x547D;&#x5468;&#x671F;&#x8FC7;&#x957F;&#x3002;</span><br><span class="line">	  &#x8BBF;&#x95EE;&#x51FA;&#x73B0;&#x5C40;&#x9650;&#x6027;&#x3002;(&#x9759;&#x6001;&#x867D;&#x597D;&#xFF0C;&#x53EA;&#x80FD;&#x8BBF;&#x95EE;&#x9759;&#x6001;&#x3002;)</span><br></pre></td></tr></table></figure>
@@ -1645,6 +1551,8 @@ uter.Inner.function();
 <h4 id="&#x9762;&#x5411;&#x5BF9;&#x8C61;-main&#x51FD;&#x6570;"><a href="#&#x9762;&#x5411;&#x5BF9;&#x8C61;-main&#x51FD;&#x6570;" class="headerlink" title="&#x9762;&#x5411;&#x5BF9;&#x8C61;(main&#x51FD;&#x6570;)"></a>&#x9762;&#x5411;&#x5BF9;&#x8C61;(main&#x51FD;&#x6570;)</h4><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">public static void main(String[] args)</span><br></pre></td></tr></table></figure>
 <blockquote>
 <p>&#x4E3B;&#x51FD;&#x6570;&#xFF1A;&#x662F;&#x4E00;&#x4E2A;&#x7279;&#x6B8A;&#x7684;&#x51FD;&#x6570;&#x3002;&#x4F5C;&#x4E3A;&#x7A0B;&#x5E8F;&#x7684;&#x5165;&#x53E3;&#xFF0C;&#x53EF;&#x4EE5;&#x88AB;jvm&#x8C03;&#x7528;&#x3002;</p>
+</blockquote>
+<blockquote>
 <p>&#x4E3B;&#x51FD;&#x6570;&#x7684;&#x5B9A;&#x4E49;&#xFF1A;</p>
 <ul>
 <li>public&#xFF1A;&#x4EE3;&#x8868;&#x7740;&#x8BE5;&#x51FD;&#x6570;&#x8BBF;&#x95EE;&#x6743;&#x9650;&#x662F;&#x6700;&#x5927;&#x7684;&#x3002;</li>
@@ -1653,6 +1561,8 @@ uter.Inner.function();
 <li>main&#xFF1A;&#x4E0D;&#x662F;&#x5173;&#x952E;&#x5B57;&#xFF0C;&#x4F46;&#x662F;&#x662F;&#x4E00;&#x4E2A;&#x7279;&#x6B8A;&#x7684;&#x5355;&#x8BCD;&#xFF0C;&#x53EF;&#x4EE5;&#x88AB;jvm&#x8BC6;&#x522B;&#x3002;</li>
 <li>String[] arr&#xFF09;:&#x51FD;&#x6570;&#x7684;&#x53C2;&#x6570;&#xFF0C;&#x53C2;&#x6570;&#x7C7B;&#x578B;&#x662F;&#x4E00;&#x4E2A;&#x6570;&#x7EC4;&#xFF0C;&#x8BE5;&#x6570;&#x7EC4;&#x4E2D;&#x7684;&#x5143;&#x7D20;&#x662F;&#x5B57;&#x7B26;&#x4E32;&#x3002;&#x5B57;&#x7B26;&#x4E32;&#x7C7B;&#x578B;&#x7684;&#x6570;&#x7EC4;&#x3002;</li>
 </ul>
+</blockquote>
+<blockquote>
 <p>&#x4E3B;&#x51FD;&#x6570;&#x662F;&#x56FA;&#x5B9A;&#x683C;&#x5F0F;&#x7684;&#xFF1A;jvm&#x8BC6;&#x522B;&#x3002;</p>
 <ul>
 <li>jvm&#x5728;&#x8C03;&#x7528;&#x4E3B;&#x51FD;&#x6570;&#x65F6;&#xFF0C;&#x4F20;&#x5165;&#x7684;&#x662F;new String[0];</li>
@@ -1817,6 +1727,8 @@ uter.Inner.function();
 <h2 id="Documents"><a href="#Documents" class="headerlink" title="Documents"></a>Documents</h2><p>StackEdit stores your documents in your browser, which means all your documents are automatically saved locally and are accessible <strong>offline!</strong></p>
 <blockquote>
 <p><strong>Note:</strong></p>
+</blockquote>
+<blockquote>
 <ul>
 <li>StackEdit is accessible offline after the application has been loaded for the first time.</li>
 <li>Your local documents are not shared between different browsers or computers.</li>
@@ -1835,6 +1747,8 @@ uter.Inner.function();
 <h2 id="Synchronization"><a href="#Synchronization" class="headerlink" title="Synchronization"></a>Synchronization</h2><p>StackEdit can be combined with <i class="icon-provider-gdrive"></i> <strong>Google Drive</strong> and <i class="icon-provider-dropbox"></i> <strong>Dropbox</strong> to have your documents saved in the <em>Cloud</em>. The synchronization mechanism takes care of uploading your modifications or downloading the latest version of your documents.</p>
 <blockquote>
 <p><strong>Note:</strong></p>
+</blockquote>
+<blockquote>
 <ul>
 <li>Full access to <strong>Google Drive</strong> or <strong>Dropbox</strong> is required to be able to import any document in StackEdit. Permission restrictions can be configured in the settings.</li>
 <li>Imported documents are downloaded in your browser and are not transmitted to a server.</li>
@@ -1875,6 +1789,8 @@ uter.Inner.function();
 <h2 id="Markdown-Extra"><a href="#Markdown-Extra" class="headerlink" title="Markdown Extra"></a>Markdown Extra</h2><p>StackEdit supports <strong>Markdown Extra</strong>, which extends <strong>Markdown</strong> syntax with some nice features.</p>
 <blockquote>
 <p><strong>Tip:</strong> You can disable any <strong>Markdown Extra</strong> feature in the <strong>Extensions</strong> tab of the <i class="icon-cog"></i> <strong>Settings</strong> dialog.</p>
+</blockquote>
+<blockquote>
 <p><strong>Note:</strong> You can find more information about <strong>Markdown</strong> syntax <a href="http://daringfireball.net/projects/markdown/syntax" title="Markdown" target="_blank" rel="noopener">here</a> and <strong>Markdown Extra</strong> extension <a href="https://github.com/jmcmanus/pagedown-extra" title="Pagedown Extra" target="_blank" rel="noopener">here</a>.</p>
 </blockquote>
 <h3 id="Tables"><a href="#Tables" class="headerlink" title="Tables"></a>Tables</h3><p><strong>Markdown Extra</strong> has a special syntax for tables:</p>
@@ -1937,7 +1853,11 @@ uter.Inner.function();
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">// Foo</span><br><span class="line">var bar = 0;</span><br></pre></td></tr></table></figure>
 <blockquote>
 <p><strong>Tip:</strong> To use <strong>Prettify</strong> instead of <strong>Highlight.js</strong>, just configure the <strong>Markdown Extra</strong> extension in the <i class="icon-cog"></i> <strong>Settings</strong> dialog.</p>
+</blockquote>
+<blockquote>
 <p><strong>Note:</strong> You can find more information:</p>
+</blockquote>
+<blockquote>
 <ul>
 <li>about <strong>Prettify</strong> syntax highlighting <a href="https://code.google.com/p/google-code-prettify/" target="_blank" rel="noopener">here</a>,</li>
 <li>about <strong>Highlight.js</strong> syntax highlighting <a href="http://highlightjs.org/" target="_blank" rel="noopener">here</a>.</li>
@@ -1997,6 +1917,8 @@ uter.Inner.function();
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line">st=&gt;start: Start</span><br><span class="line">e=&gt;end</span><br><span class="line">op=&gt;operation: My Operation</span><br><span class="line">cond=&gt;condition: Yes or No?</span><br><span class="line"></span><br><span class="line">st-&gt;op-&gt;cond</span><br><span class="line">cond(yes)-&gt;e</span><br><span class="line">cond(no)-&gt;op</span><br></pre></td></tr></table></figure>
 <blockquote>
 <p><strong>Note:</strong> You can find more information:</p>
+</blockquote>
+<blockquote>
 <ul>
 <li>about <strong>Sequence diagrams</strong> syntax <a href="http://bramp.github.io/js-sequence-diagrams/" target="_blank" rel="noopener">here</a>,</li>
 <li>about <strong>Flow charts</strong> syntax <a href="http://adrai.github.io/flowchart.js/" target="_blank" rel="noopener">here</a>.</li>
@@ -2035,6 +1957,8 @@ uter.Inner.function();
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">&#x770B;&#x5230;&#x522B;&#x4EBA;&#x7684;&#x535A;&#x5BA2;&#xFF0C;&#x4E0D;&#x7ECF;&#x610F;&#x95F4;&#x53D1;&#x73B0;hexo&#x53EF;&#x4EE5;&#x642D;&#x5EFA;&#x535A;&#x5BA2;&#xFF0C;hexo&#x662F;&#x4E00;&#x4E2A;&#x57FA;&#x4E8E;Node&#x7684;&#x535A;&#x5BA2;&#x6846;&#x67B6;&#xFF0C;&#x540C;&#x6837;&#x53EF;&#x4EE5;&#x5B9E;&#x73B0;&#x57FA;&#x4E8E;github&#x7684;&#x535A;&#x5BA2;,&#x800C;&#x4E14;&#x66F4;&#x8F7B;&#x66F4;&#x5FEB;&#xFF0C;&#x9002;&#x5408;&#x524D;&#x7AEF;&#x5F00;&#x53D1;&#x7A0B;&#x5E8F;&#x5458;&#xFF0C;hexo</span><br><span class="line"></span><br><span class="line">&#x662F;&#x53F0;&#x6E7E;&#x5927;&#x5B66;&#x751F;&#x201C;tommy351&#x201D;&#x4E4B;&#x624B;&#xFF0C;&#x662F;&#x4E00;&#x4E2A;&#x57FA;&#x4E8E;Node.js&#x7684;&#x9759;&#x6001;&#x535A;&#x5BA2;&#x7A0B;&#x5E8F;&#xFF0C;&#x5176;&#x7F16;&#x8BD1;&#x4E0A;&#x767E;&#x7BC7;&#x6587;&#x5B57;&#x53EA;&#x9700;&#x8981;&#x51E0;&#x79D2;,hexo&#x751F;&#x6210;&#x7684;&#x9759;&#x6001;&#x7F51;&#x9875;&#x53EF;&#x4EE5;&#x76F4;&#x63A5;&#x653E;&#x5230;GitHub,Pages&#xFF0C;BAE&#xFF0C;SAE</span><br><span class="line"></span><br><span class="line">&#x7B49;&#x5E73;&#x53F0;&#x4E0A;.</span><br></pre></td></tr></table></figure>
 <blockquote>
 <p><strong>&#x76EE;&#x5F55;:</strong></p>
+</blockquote>
+<blockquote>
 <ul>
 <li>Hexo&#x4ECB;&#x7ECD;</li>
 <li>Hexo&#x5B89;&#x88C5;</li>
@@ -2119,7 +2043,7 @@ uter.Inner.function();
 <h3 id="&#x53D1;&#x5E03;&#x5230;github"><a href="#&#x53D1;&#x5E03;&#x5230;github" class="headerlink" title="&#x53D1;&#x5E03;&#x5230;github"></a>&#x53D1;&#x5E03;&#x5230;github</h3><p>&#x63A5;&#x4E0B;&#x6765;&#xFF0C;&#x6211;&#x4EEC;&#x628A;&#x8FD9;&#x4E2A;&#x535A;&#x5BA2;&#x53D1;&#x5E03;&#x5230;github&#x3002;</p>
 <p>&#x5728;github&#x4E2D;&#x521B;&#x5EFA;&#x4E00;&#x4E2A;&#x9879;&#x76EE;nodejs-hexo&#xFF0C;&#x9879;&#x76EE;&#x5730;&#x5740;&#xFF1A;<a href="https://github.com/test/nodejs-hexo" target="_blank" rel="noopener">https://github.com/test/nodejs-hexo</a></p>
 <p>&#x7F16;&#x8F91;&#x5168;&#x5C40;&#x914D;&#x7F6E;&#x6587;&#x4EF6;&#xFF1A;_config.yml&#xFF0C;&#x627E;&#x5230;deploy&#x7684;&#x90E8;&#x5206;&#xFF0C;&#x8BBE;&#x7F6E;github&#x7684;&#x9879;&#x76EE;&#x5730;&#x5740;&#x3002;</p>
-<p>deploy:<br>  type: github<br>  repo: git@github.com:test/nodejs-hexo.git<br>&#x7136;&#x540E;&#xFF0C;&#x901A;&#x8FC7;&#x547D;&#x4EE4;&#x8FDB;&#x884C;&#x90E8;&#x7F72;&#x3002;</p>
+<p>deploy:<br>  type: github<br>  repo: <a href="mailto:git@github.com" target="_blank" rel="noopener">git@github.com</a>:test/nodejs-hexo.git<br>&#x7136;&#x540E;&#xFF0C;&#x901A;&#x8FC7;&#x547D;&#x4EE4;&#x8FDB;&#x884C;&#x90E8;&#x7F72;&#x3002;</p>
 <h4 id="&#x6587;&#x7AE0;&#x6458;&#x8981;"><a href="#&#x6587;&#x7AE0;&#x6458;&#x8981;" class="headerlink" title="&#x6587;&#x7AE0;&#x6458;&#x8981;"></a>&#x6587;&#x7AE0;&#x6458;&#x8981;</h4><p>&#x5728;&#x9700;&#x8981;&#x663E;&#x793A;&#x6458;&#x8981;&#x7684;&#x5730;&#x65B9;&#x6DFB;&#x52A0;&#x5982;&#x4E0B;&#x4EE3;&#x7801;&#x5373;&#x53EF;&#xFF1A;<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">&#x4EE5;&#x4E0A;&#x662F;&#x6458;&#x8981;</span><br><span class="line">&lt;!--more--&gt;</span><br><span class="line">&#x4EE5;&#x4E0B;&#x662F;&#x4F59;&#x4E0B;&#x5168;&#x6587;</span><br></pre></td></tr></table></figure></p>
 <h4 id="&#x81EA;&#x5B9A;&#x4E49;&#x5173;&#x4E8E;&#x9875;&#x9762;"><a href="#&#x81EA;&#x5B9A;&#x4E49;&#x5173;&#x4E8E;&#x9875;&#x9762;" class="headerlink" title="&#x81EA;&#x5B9A;&#x4E49;&#x5173;&#x4E8E;&#x9875;&#x9762;"></a>&#x81EA;&#x5B9A;&#x4E49;&#x5173;&#x4E8E;&#x9875;&#x9762;</h4><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">&#x6267;&#x884C;new page&#x547D;&#x4EE4;</span><br><span class="line">hexo new page &quot;about&quot;</span><br><span class="line"></span><br><span class="line">&#x5728;hexo\source\&#x4E0B;&#x4F1A;&#x751F;&#x6210;about&#x76EE;&#x5F55;&#xFF0C;&#x91CC;&#x9762;&#x6709;&#x4E2A;index.md&#xFF0C;&#x76F4;&#x63A5;&#x7F16;&#x8F91;&#x5C31;&#x53EF;&#x4EE5;&#xFF0C;&#x7136;&#x540E;&#x5728;&#x4E3B;&#x9898;&#x7684;_config.yml&#x4E2D;&#x5C06;&#x5176;&#x914D;&#x7F6E;&#x663E;&#x793A;&#x51FA;&#x6765;&#x3002;</span><br></pre></td></tr></table></figure>
 <h4 id="&#x9875;&#x9762;&#x6DFB;&#x52A0;&#x56FE;&#x7247;"><a href="#&#x9875;&#x9762;&#x6DFB;&#x52A0;&#x56FE;&#x7247;" class="headerlink" title="&#x9875;&#x9762;&#x6DFB;&#x52A0;&#x56FE;&#x7247;"></a>&#x9875;&#x9762;&#x6DFB;&#x52A0;&#x56FE;&#x7247;</h4><p>&#x9996;&#x5148;&#x786E;&#x8BA4;_config.yml&#x4E2D;&#x6709;&#xFF1A;</p>
