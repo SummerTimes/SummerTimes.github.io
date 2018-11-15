@@ -12,13 +12,11 @@
     <meta name=apple-mobile-web-app-status-bar-style content=default>
     <meta name=description content="">
     <meta name=Keywords content="">
-    <title>玩我</title>
+    <title></title>
 </head>
 
 <body>
 <div onclick="handle()">点我</div>
-
-<div class="message" id="message"></div>
 
 <button onclick="jump()">跳转</button>
 
@@ -35,11 +33,10 @@ function jump(){
  window.CTJSBridge.LoadMethod(
                 'BLGoodsDetail'
                 ,'BLGoodsDetailViewController'
-                , {resourceId: 玩我呢}
-                ,function(result){
+                , {resourceId: 500}
+                ,function(responseData) {
                     calback(responseData)
-
-                    
+                    alert(JSON.stringify(responseData))
                 }
             );
 }
@@ -113,8 +110,8 @@ var successobj = {
 }
 
 // hello('BLAPPSiteQueryAdDeployAPIManager', {resourceId: 500}, successobj)
-<!--hello('BLPromotionQueryFlashGoodsAPIManager', {resourceId: 500}, successobj)-->
-<!--hello('BLAPPSiteQueryAdDeployAPIManager', {resourceId: 500}, successobj)-->
+// <!--hello('BLPromotionQueryFlashGoodsAPIManager', {resourceId: 500}, successobj)-->
+// <!--hello('BLAPPSiteQueryAdDeployAPIManager', {resourceId: 500}, successobj)-->
 
 </script>
 </body>
