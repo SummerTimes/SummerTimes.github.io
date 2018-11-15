@@ -29,14 +29,13 @@ function handle(){
 }
 
 function jump(){
- // alert('hello');
+ alert('hello');
  window.CTJSBridge.LoadMethod(
                 'BLGoodsDetail'
                 ,'BLGoodsDetailViewController'
                 , {resourceId: 500}
-                ,function(responseData) {
-                    calback(responseData)
-                    alert(JSON.stringify(responseData))
+                ,function() {
+                    
                 }
             );
 }
@@ -51,7 +50,7 @@ document.addEventListener(
         'BLBridgeReady'
         , function() {
 
-            // alert(data.toString()+"啛啛喳喳");
+            alert(data.toString()+"啛啛喳喳");
 
             alert(JSON.stringify(data))
 
@@ -109,7 +108,7 @@ var successobj = {
     }
 }
 
-// hello('BLAPPSiteQueryAdDeployAPIManager', {resourceId: 500}, successobj)
+hello('BLGoodsDetailViewController', {resourceId: 500}, successobj)
 // <!--hello('BLPromotionQueryFlashGoodsAPIManager', {resourceId: 500}, successobj)-->
 // <!--hello('BLAPPSiteQueryAdDeployAPIManager', {resourceId: 500}, successobj)-->
 
