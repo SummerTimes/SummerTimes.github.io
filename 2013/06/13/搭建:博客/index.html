@@ -12,11 +12,13 @@
     <meta name=apple-mobile-web-app-status-bar-style content=default>
     <meta name=description content="">
     <meta name=Keywords content="">
-    <title></title>
+    <title>玩我</title>
 </head>
 
 <body>
 <div onclick="handle()">点我</div>
+
+<div class="message" id="message"></div>
 
 <button onclick="jump()">跳转</button>
 
@@ -35,7 +37,7 @@ function jump(){
                 ,'BLGoodsDetailViewController'
                 , {resourceId: 500}
                 ,function(){
-
+                    alert(data.toString()+"啛啛喳喳");
                 }
             );
 }
