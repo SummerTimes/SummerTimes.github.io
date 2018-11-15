@@ -35,9 +35,11 @@ function jump(){
  window.CTJSBridge.LoadMethod(
                 'BLGoodsDetail'
                 ,'BLGoodsDetailViewController'
-                , {resourceId: 500}
+                , {resourceId: 玩我呢}
                 ,function(){
-                    alert(data.toString()+"啛啛喳喳");
+                    
+                    alert(JSON.stringify(data))
+                    window.CTJSBRidge._setNativeTitle('哈哈哈');
                 }
             );
 }
