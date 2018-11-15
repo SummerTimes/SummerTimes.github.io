@@ -17,6 +17,7 @@
 
 <body>
 <div onclick="handle()">点我</div>
+<div class="message" id="message"></div>
 
 <button onclick="jump()">跳转</button>
 
@@ -36,7 +37,7 @@ function jump(){
                 , {resourceId: 500}
                 ,function(){
                     alert(data.toString()+"啛啛喳喳");
-
+                    document.getElementById('message').innerHTML = data.toString();
                 }
             );
 }
@@ -51,6 +52,7 @@ document.addEventListener(
         'BLBridgeReady'
         , function() {
 
+            document.getElementById('message').innerHTML = data.toString();
             alert(data.toString()+"啛啛喳喳");
 
             alert(JSON.stringify(data))
