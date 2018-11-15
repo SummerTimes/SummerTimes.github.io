@@ -36,10 +36,10 @@ function jump(){
                 'BLGoodsDetail'
                 ,'BLGoodsDetailViewController'
                 , {resourceId: 玩我呢}
-                ,function(){
+                ,function(result){
+                    calback(responseData)
+
                     
-                    alert(JSON.stringify(data))
-                    window.CTJSBRidge._setNativeTitle('哈哈哈');
                 }
             );
 }
@@ -112,7 +112,7 @@ var successobj = {
     }
 }
 
-hello('BLAPPSiteQueryAdDeployAPIManager', {resourceId: 500}, successobj)
+// hello('BLAPPSiteQueryAdDeployAPIManager', {resourceId: 500}, successobj)
 <!--hello('BLPromotionQueryFlashGoodsAPIManager', {resourceId: 500}, successobj)-->
 <!--hello('BLAPPSiteQueryAdDeployAPIManager', {resourceId: 500}, successobj)-->
 
