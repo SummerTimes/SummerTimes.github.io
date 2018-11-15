@@ -1,73 +1,117 @@
 <!DOCTYPE html>
 <html>
+
 <head>
-  <meta name="viewport" content="initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no">
-  <style type="text/css">
-    *{
-      margin:  0;
-      padding: 0;
-    }
-    .box{
-      text-align: center;
-    }
-    .btn{
-      line-height: 44px;
-      text-align: center;
-      font-size: 14px;
-      border: 1px solid blue;
-      background-color: #fff;
-      margin-bottom: 20px;
-      padding: 0 10px;
-    }
-    .message{
-      position: fixed;
-      bottom: 0;
-      width: 100%;
-      padding: 10px;
-      font-size: 14px;
-      color: #000;
-    }
-  </style>
-
+    <meta charset=utf-8>
+    <meta name=viewport
+          content="width=device-width,user-scalable=no,initial-scale=1,maximum-scale=1,minimum-scale=1">
+    <meta http-equiv=Content-Type content="text/html; charset=utf-8">
+    <meta name=format-detection content="telephone=no, email=no, address=no">
+    <meta name=applicable-device content=mobile>
+    <meta name=apple-touch-fullscreen content=yes>
+    <meta name=apple-mobile-web-app-status-bar-style content=default>
+    <meta name=description content="">
+    <meta name=Keywords content="">
+    <title></title>
 </head>
+
 <body>
-  <div class="box">
-    <div class="message" id="message"></div>
-    <!-- <button class="btn" id="J_APIMethod" onclick="HandleAPIMethod();">API Method</button> -->
-    <br />
-    <button class="btn" id="J_NativeMethodButton" onclick="HandleNativeMethod();">Native Method</button>
-  </div>
-  <script>
+<div onclick="handle()">点我</div>
 
-    // window.ct_isInDevice || document.write('<script src="/CTJSBridge_remote.js"><\/script>')
+<button onclick="jump()">跳转</button>
 
-    function HandleAPIMethod() {
-        window.CTJSBridge.LoadAPI({"apiName":"CTMarvelCharactersAPIManager","orderBy":"modified"}, {
-        "success":function(result){
-          document.getElementById('message').innerHTML = result;
+<div id="show"></div>
+
+<script type="text/javascript">
+
+function handle(){
+
+}
+
+function jump(){
+ // alert('hello');
+ window.CTJSBridge.LoadMethod(
+                'BLGoodsDetail'
+                ,'BLGoodsDetailViewController'
+                , {resourceId: 500}
+                ,function(){
+
+                }
+            );
+}
+
+
+var a=true;
+function hello(name, data, calback) {
+
+if(a){
+
+document.addEventListener(
+        'BLBridgeReady'
+        , function() {
+
+            // alert(data.toString()+"啛啛喳喳");
+
+            alert(JSON.stringify(data))
+
+
+
+            <!--window.CTJSBridge.LoadAPI(-->
+                <!--name-->
+                <!--, data-->
+                <!--, calback-->
+            <!--);-->
+
+            <!--window.CTJSBRidge.LoadMethod("===","====",{},callback);-->
+
+            window.CTJSBRidge._setNativeTitle('哈哈哈');
+
         },
-        "fail":function(result){
-          document.getElementById('message').innerHTML = result;
-        },
-        "progress":function(result){
-          document.getElementById('message').innerHTML = result;
-        },
-      });
+        false
+    );
+}else{
+
+window.CTJSBridge.LoadAPI(
+                name
+                , data
+                , calback
+            );
+}
+
+
+}
+
+function LoadMethod(name, action,data, calback) {
+            window.BLBridge.LoadMethod(
+                name,action
+                , {'param': data}
+                , function(responseData) {
+                    calback(responseData)
+
+                }
+            );
+}
+
+if(window.CTJSBridge){
+
+var info="哈哈哈";
+}else{
+var info="哈哈哈222";
+}
+
+var successobj = {
+    success: function(res) {
+        alert("成功"+res)
+    },
+    fail: function(err) {
+        alert(err+'失败')
     }
+}
 
-    function HandleNativeMethod() {
-       window.CTJSBridge.LoadMethod({"targetName":"BLGoodsDetail","actionName":"BLGoodsDetailViewController","key":"value"}, {
-        "success":function(result){
-          document.getElementById('message').innerHTML = result;
-        },
-        "fail":function(result){
-          document.getElementById('message').innerHTML = result;
-        },
-        "progress":function(result){
-          document.getElementById('message').innerHTML = result;
-        },
-      });
-    }
-  </script>
+hello('BLAPPSiteQueryAdDeployAPIManager', {resourceId: 500}, successobj)
+<!--hello('BLPromotionQueryFlashGoodsAPIManager', {resourceId: 500}, successobj)-->
+<!--hello('BLAPPSiteQueryAdDeployAPIManager', {resourceId: 500}, successobj)-->
+
+</script>
 </body>
 </html>
