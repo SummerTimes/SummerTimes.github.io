@@ -34,9 +34,14 @@ function jump(){
                 'BLGoodsDetail'
                 ,'BLGoodsDetailViewController'
                 , {resourceId: 500}
-                ,function() {
-                    
-                }
+                ,success: function(res) 
+                    {
+                    alert("成功"+res)
+                    }
+                ,fail: function(err) 
+                    {
+                    alert(err+'失败')
+                    }
             );
 }
 
