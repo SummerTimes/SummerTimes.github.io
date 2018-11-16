@@ -44,27 +44,27 @@
     function HandleAPIMethod() {
         window.CTJSBridge.LoadAPI({"apiName":"CTMarvelCharactersAPIManager","orderBy":"modified"}, {
         "success":function(result){
-          document.getElementById('message').innerHTML = result;
+          document.getElementById('message').innerHTML = JSON.stringify(result);
         },
         "fail":function(result){
-          document.getElementById('message').innerHTML = result;
+          document.getElementById('message').innerHTML = JSON.stringify(result);
         },
         "progress":function(result){
-          document.getElementById('message').innerHTML = result;
+          document.getElementById('message').innerHTML = JSON.stringify(result);
         },
       });
     }
 
     function HandleNativeMethod() {
-       window.CTJSBridge.LoadMethod({"targetName":"BLGoodsDetail","actionName":"BLGoodsDetailViewController","key":"value"}, {
+       window.CTJSBridge.LoadMethod({"targetName":"Demo","actionName":"push","key":"value"}, {
         "success":function(result){
-          document.getElementById('message').innerHTML = result;
+          document.getElementById('message').innerHTML = JSON.stringify(result);
         },
         "fail":function(result){
-          document.getElementById('message').innerHTML = result;
+          document.getElementById('message').innerHTML = JSON.stringify(result);
         },
         "progress":function(result){
-          document.getElementById('message').innerHTML = result;
+          document.getElementById('message').innerHTML = JSON.stringify(result);
         },
       });
     }
