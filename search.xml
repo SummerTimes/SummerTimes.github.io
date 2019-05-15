@@ -777,27 +777,6 @@
     </entry>
     
     <entry>
-      <title><![CDATA[JAVA线程(二)]]></title>
-      <url>/2014/01/10/java-%E5%A4%9A%E7%BA%BF%E7%A8%8B-2/</url>
-      <content type="html"><![CDATA[<p>&#x65F6;&#x95F4;&#x98DE;&#x5FEB;&#x6D41;&#x901D;,&#x5E74;&#x7EAA;&#x4E0D;&#x65AD;&#x589E;&#x957F;,&#x4EBA;&#x603B;&#x8981;&#x627E;&#x70B9;&#x4E8B;&#x60C5;&#x505A;&#xFF0C;&#x8BA9;&#x81EA;&#x5DF1;&#x5FD9;&#x8D77;&#x6765;&#xFF0C;&#x5FD9;&#x8D77;&#x6765;&#x624D;&#x77E5;&#x9053;&#x751F;&#x6D3B;&#x4E0D;&#x6613;&#xFF0C;&#x624D;&#x660E;&#x767D;&#x5E73;&#x65F6;&#x7684;&#x5FE7;&#x4F24;&#x90FD;&#x662F;&#x77EB;&#x60C5;&#x3002;&#x201C;&#x65F6;&#x5149;&#x4E0D;&#x5012;&#x5E26;&#xFF0C;&#x5C81;&#x6708;&#x4E0D;&#x91CD;&#x6765;&#x201D;-&#x81F4;&#x81EA;&#x5DF1; &#x200B;&#x200B;&#x200B;&#x200B;</p>
-<h3 id="&#x591A;&#x7EBF;&#x7A0B;&#x7684;&#x7406;&#x89E3;&#x548C;&#x521B;&#x5EFA;"><a href="#&#x591A;&#x7EBF;&#x7A0B;&#x7684;&#x7406;&#x89E3;&#x548C;&#x521B;&#x5EFA;" class="headerlink" title="&#x591A;&#x7EBF;&#x7A0B;&#x7684;&#x7406;&#x89E3;&#x548C;&#x521B;&#x5EFA;"></a>&#x591A;&#x7EBF;&#x7A0B;&#x7684;&#x7406;&#x89E3;&#x548C;&#x521B;&#x5EFA;</h3>]]></content>
-      
-        <categories>
-            
-            <category> java </category>
-            
-        </categories>
-        
-        
-        <tags>
-            
-            <tag> java </tag>
-            
-        </tags>
-        
-    </entry>
-    
-    <entry>
       <title><![CDATA[JAVA线程(-)]]></title>
       <url>/2014/01/10/java-%E5%A4%9A%E7%BA%BF%E7%A8%8B-1/</url>
       <content type="html"><![CDATA[<p>&#x65F6;&#x95F4;&#x98DE;&#x5FEB;&#x6D41;&#x901D;,&#x5E74;&#x7EAA;&#x4E0D;&#x65AD;&#x589E;&#x957F;,&#x4EBA;&#x603B;&#x8981;&#x627E;&#x70B9;&#x4E8B;&#x60C5;&#x505A;&#xFF0C;&#x8BA9;&#x81EA;&#x5DF1;&#x5FD9;&#x8D77;&#x6765;&#xFF0C;&#x5FD9;&#x8D77;&#x6765;&#x624D;&#x77E5;&#x9053;&#x751F;&#x6D3B;&#x4E0D;&#x6613;&#xFF0C;&#x624D;&#x660E;&#x767D;&#x5E73;&#x65F6;&#x7684;&#x5FE7;&#x4F24;&#x90FD;&#x662F;&#x77EB;&#x60C5;&#x3002;&#x201C;&#x65F6;&#x5149;&#x4E0D;&#x5012;&#x5E26;&#xFF0C;&#x5C81;&#x6708;&#x4E0D;&#x91CD;&#x6765;&#x201D;-&#x81F4;&#x81EA;&#x5DF1; &#x200B;&#x200B;&#x200B;&#x200B;</p>
@@ -871,6 +850,27 @@
     </entry>
     
     <entry>
+      <title><![CDATA[JAVA线程(二)]]></title>
+      <url>/2014/01/10/java-%E5%A4%9A%E7%BA%BF%E7%A8%8B-2/</url>
+      <content type="html"><![CDATA[<p>&#x65F6;&#x95F4;&#x98DE;&#x5FEB;&#x6D41;&#x901D;,&#x5E74;&#x7EAA;&#x4E0D;&#x65AD;&#x589E;&#x957F;,&#x4EBA;&#x603B;&#x8981;&#x627E;&#x70B9;&#x4E8B;&#x60C5;&#x505A;&#xFF0C;&#x8BA9;&#x81EA;&#x5DF1;&#x5FD9;&#x8D77;&#x6765;&#xFF0C;&#x5FD9;&#x8D77;&#x6765;&#x624D;&#x77E5;&#x9053;&#x751F;&#x6D3B;&#x4E0D;&#x6613;&#xFF0C;&#x624D;&#x660E;&#x767D;&#x5E73;&#x65F6;&#x7684;&#x5FE7;&#x4F24;&#x90FD;&#x662F;&#x77EB;&#x60C5;&#x3002;&#x201C;&#x65F6;&#x5149;&#x4E0D;&#x5012;&#x5E26;&#xFF0C;&#x5C81;&#x6708;&#x4E0D;&#x91CD;&#x6765;&#x201D;-&#x81F4;&#x81EA;&#x5DF1; &#x200B;&#x200B;&#x200B;&#x200B;</p>
+<h3 id="&#x591A;&#x7EBF;&#x7A0B;&#x7684;&#x7406;&#x89E3;&#x548C;&#x521B;&#x5EFA;"><a href="#&#x591A;&#x7EBF;&#x7A0B;&#x7684;&#x7406;&#x89E3;&#x548C;&#x521B;&#x5EFA;" class="headerlink" title="&#x591A;&#x7EBF;&#x7A0B;&#x7684;&#x7406;&#x89E3;&#x548C;&#x521B;&#x5EFA;"></a>&#x591A;&#x7EBF;&#x7A0B;&#x7684;&#x7406;&#x89E3;&#x548C;&#x521B;&#x5EFA;</h3>]]></content>
+      
+        <categories>
+            
+            <category> java </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> java </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
       <title><![CDATA[JAVA-简单排序]]></title>
       <url>/2014/01/02/JAVA-%E7%AE%80%E5%8D%95%E6%8E%92%E5%BA%8F/</url>
       <content type="html"><![CDATA[<p>&#x65F6;&#x95F4;&#x98DE;&#x5FEB;&#x6D41;&#x901D;,&#x5E74;&#x7EAA;&#x4E0D;&#x65AD;&#x589E;&#x957F;,&#x4EBA;&#x603B;&#x8981;&#x627E;&#x70B9;&#x4E8B;&#x60C5;&#x505A;&#xFF0C;&#x8BA9;&#x81EA;&#x5DF1;&#x5FD9;&#x8D77;&#x6765;&#xFF0C;&#x5FD9;&#x8D77;&#x6765;&#x624D;&#x77E5;&#x9053;&#x751F;&#x6D3B;&#x4E0D;&#x6613;&#xFF0C;&#x624D;&#x660E;&#x767D;&#x5E73;&#x65F6;&#x7684;&#x5FE7;&#x4F24;&#x90FD;&#x662F;&#x77EB;&#x60C5;&#x3002;&#x201C;&#x65F6;&#x5149;&#x4E0D;&#x5012;&#x5E26;&#xFF0C;&#x5C81;&#x6708;&#x4E0D;&#x91CD;&#x6765;&#x201D;-&#x81F4;&#x81EA;&#x5DF1; &#x200B;&#x200B;&#x200B;&#x200B;</p>
@@ -898,7 +898,7 @@
     </entry>
     
     <entry>
-      <title><![CDATA[ArrayList]]></title>
+      <title><![CDATA[JAVA-ArrayList]]></title>
       <url>/2014/01/01/JAVA-ArrayList/</url>
       <content type="html"><![CDATA[<p>&#x65F6;&#x95F4;&#x98DE;&#x5FEB;&#x6D41;&#x901D;,&#x5E74;&#x7EAA;&#x4E0D;&#x65AD;&#x589E;&#x957F;,&#x4EBA;&#x603B;&#x8981;&#x627E;&#x70B9;&#x4E8B;&#x60C5;&#x505A;&#xFF0C;&#x8BA9;&#x81EA;&#x5DF1;&#x5FD9;&#x8D77;&#x6765;&#xFF0C;&#x5FD9;&#x8D77;&#x6765;&#x624D;&#x77E5;&#x9053;&#x751F;&#x6D3B;&#x4E0D;&#x6613;&#xFF0C;&#x624D;&#x660E;&#x767D;&#x5E73;&#x65F6;&#x7684;&#x5FE7;&#x4F24;&#x90FD;&#x662F;&#x77EB;&#x60C5;&#x3002;&#x201C;&#x65F6;&#x5149;&#x4E0D;&#x5012;&#x5E26;&#xFF0C;&#x5C81;&#x6708;&#x4E0D;&#x91CD;&#x6765;&#x201D;-&#x81F4;&#x81EA;&#x5DF1; &#x200B;&#x200B;&#x200B;&#x200B;</p>
 <h3 id="ArrayList-&#x5220;&#x9664;&#x6570;&#x636E;&#x65B9;&#x5F0F;"><a href="#ArrayList-&#x5220;&#x9664;&#x6570;&#x636E;&#x65B9;&#x5F0F;" class="headerlink" title="ArrayList &#x5220;&#x9664;&#x6570;&#x636E;&#x65B9;&#x5F0F;"></a>ArrayList &#x5220;&#x9664;&#x6570;&#x636E;&#x65B9;&#x5F0F;</h3><p><strong>&#x4F8B;&#x5982;&#x4EE3;&#x7801;&#xFF1A;</strong><br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br></pre></td><td class="code"><pre><span class="line">public static void main(String[] args) {</span><br><span class="line">       //&#x96C6;&#x5408;&#x4E2D;&#x6DFB;&#x52A0;&#x6570;&#x636E;</span><br><span class="line">       ArrayList&lt;String&gt; list = new ArrayList&lt;String&gt;();</span><br><span class="line">       list.add(&quot;beijing&quot;);</span><br><span class="line">       list.add(&quot;shanghai&quot;);</span><br><span class="line">       list.add(&quot;shanghai&quot;);</span><br><span class="line">       list.add(&quot;guangzhou&quot;);</span><br><span class="line">       list.add(&quot;shenzhen&quot;);</span><br><span class="line">       list.add(&quot;hangzhou&quot;);</span><br><span class="line">       print(list);</span><br><span class="line">       remove11(list, &quot;shanghai&quot;);</span><br><span class="line">   }</span><br></pre></td></tr></table></figure></p>
